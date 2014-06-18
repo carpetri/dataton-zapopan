@@ -1,630 +1,1 @@
-Colonia,Ubicacion,TipoClave,TipoDesc,Clase
-254,Calle Molino del Salvador,2,Parque,1
-254,Calle Molino del Salvador,3,JardÌn,1
-407,Calle Villas del Sol,3,JardÌn,1
-105,"Calle Lusitania, pegado al canal.",3,JardÌn,1
-109,"Zona recreativa con jardÌn y juegos infantiles, adem·s de contar con cancha de b·squetbol.",2,Parque,1
-109,OrquÌdeas y Girasol (dentro de Casas GEO),3,JardÌn,1
-216,Lomas de los Altos y Av. Zoquipan,3,JardÌn,0
-216,"Lomas del Infante, entre Lomas del LÌbano y Lomas de Zoquipan",3,JardÌn,1
-216,Lomas de los ¡ngeles y Lomas Verdes (notoriamente descuidado),2,Parque,1
-233,"Manuel Tortoloero, entre Vista Hermosa y Santa LucÌa",3,JardÌn,1
-233,Vista Hermosa y Manuel M. Tortolero,2,Parque,1
-106,Mediero No. 613,2,Parque,0
-106,Mediero No. 613,3,JardÌn,0
-330,Rincanada la Azalea,3,JardÌn,0
-330,Rinconada la Azalea,2,Parque,0
-103,Miguel Gutierrez,3,JardÌn,1
-103,Blvd. del Rodeo y ProlongaciÛn Pino Suarez,3,JardÌn,1
-103,Miguel Gutierrez,4,Juegos Infantiles,1
-103,Blvd. del Rodeo y ProlongaciÛn Pino Suarez,4,Juegos Infantiles,1
-402,Dr. A Carpinteros entre Juan JosÈ Moreno y JosÈ Ma. Hidalgo,2,Parque,0
-402,J.M.E. GutiÈrrez de Hermosillo y Juan JosÈ Moreno,3,JardÌn,1
-402,Dr. A Carpintero y JosÈ Ma. Hidalgo,3,JardÌn,1
-402,Cto. Presidente JosÈ Ma. Hidalgo y Dr. J.N. Gomez VillaseÒor,3,JardÌn,1
-402,Dr. A. Carpintero entre Juan JosÈ Moreno y JosÈ Ma. Hidalgo,4,Juegos Infantiles,0
-28,Paulino Olvera y Epigmenio Preciado,2,Parque,0
-28,Paulino Olvera y Epigmenio Preciado,3,JardÌn,0
-28,Paulino Olvera y Epigmenio Preciado,4,Juegos Infantiles,0
-233,Vista Hermosa y Manuel M. Tortolero (en el parque),4,Juegos Infantiles,1
-368,"Calle D, Colignon y Ma. de la PeÒa",3,JardÌn,0
-367,Av. Aurelio Ortega (camellon),3,JardÌn,1
-395,Manuel Anaya y V. Rosales,4,Juegos Infantiles,0
-2,Natividad J. Macias y Manuel Anaya,4,Juegos Infantiles,0
-2,Natividad J. Macias y Manuel Anaya,1,Plaza Civica,0
-366,General Salvador Gonz·lez T. y Aldama,3,JardÌn,0
-366,General Salvador Gonz·lez T. y Aldama,4,Juegos Infantiles,0
-81,Lomas de los ¡ngeles y Lomas Verdes,2,Parque,0
-81,Lomas de los Altos y Av. Zoquipan,3,JardÌn,0
-81,Lomas del Infante entre LÌbano y Lomas de Zoquipan,3,JardÌn,0
-106,Medieros No. 613,1,Plaza Civica,1
-195,Av. Mariano Barcenas y Luis Quintero,2,Parque,0
-195,Av. Mariano Barcenas y Luis Quintero,3,JardÌn,0
-195,Av. Mariano Barcenas y Luis Quintero,4,Juegos Infantiles,0
-325,Alberto Cinta y Vicente Guerrero,2,Parque,0
-325,Alberto Cinta y Vicente Guerrero,3,JardÌn,0
-325,Prol. Federalismo (COMUDE),4,Juegos Infantiles,1
-273,Gonz·lez Gallo y Plan de Guadalupe,2,Parque,0
-273,Plan de Guadalupe y Ayala,2,Parque,0
-273,Plan de Guadalupe y Tlatelolco,2,Parque,0
-273,Plan de Ayala y Tlatelolco,2,Parque,0
-273,Gonz·lez Gallo y Plan de Guadalupe,3,JardÌn,0
-273,Plan de Guadalupe y Plan de Ayala,3,JardÌn,0
-273,Plan de Guadalupe y Tlatelolco,3,JardÌn,0
-273,Plan de Ayala y Tlatelolco,3,JardÌn,0
-273,Plan de Guadalupe,4,Juegos Infantiles,0
-273,Plan de Ayala,4,Juegos Infantiles,0
-162,Plan de Guadalupe y Andador Cantera Rosa,2,Parque,0
-162,Plan de Guadalupe y Andador Cantera Rosa,3,JardÌn,0
-162,Plan de Guadalupe y Andador Cantera Rosa,4,Juegos Infantiles,0
-38,Jes˙s J. MartÌnez y Priv. Canteros (COMUDE),4,Juegos Infantiles,1
-408,HipÛlito Hern·ndez y JosÈ MarÌa MartÌnez,4,Juegos Infantiles,1
-112,Juana de Arco y Federico GarcÌa Lorca,1,Plaza Civica,0
-36,JosÈ Palomar,1,Plaza Civica,1
-423,Laureles No. 55,3,JardÌn,2
-423,Laureles No. 55,2,Parque,2
-41,San Mateo y Galeana,2,Parque,0
-41,Bugambilia y San MartÌn,3,JardÌn,0
-41,Modulo COMUDE,4,Juegos Infantiles,1
-377,Andador Ciruelos y Fresas,3,JardÌn,1
-377,Andador Ciruelos y Fresas,4,Juegos Infantiles,1
-272,Arco Graciano,3,JardÌn,1
-272,Graciano y Santa Monica,3,JardÌn,1
-272,Santa Monica y Obsidiana,3,JardÌn,1
-272,Santa Monica y Opalo Oriente,3,JardÌn,1
-272,Santa Monica y Agua Marina,3,JardÌn,1
-272,Circuito Fresno Nte.,3,JardÌn,1
-272,Santa Monica y Jade Sur,4,Juegos Infantiles,1
-63,Av. Jes˙s entre Clavel y Galeana,3,JardÌn,1
-63,Rosas y Santa Blanca,4,Juegos Infantiles,1
-139,"Municipal Francisco Villa, Torremolinos y ValdepeÒas",2,Parque,1
-139,Torremolinos y ValdepeÒas,3,JardÌn,1
-139,Torremolinos y ValdepeÒas,4,Juegos Infantiles,1
-91,Calle CTM  y Felipe C. Puerto,2,Parque,1
-308,Glorieta en Av Miguel Angel,4,Juegos Infantiles,1
-47,,0,Desconocido,0
-145,"Rosas y Galeanas, Privada Azaleas y Azaleas Sur
-Belisario y Azaleas Sur y Privada Violetas",3,JardÌn,1
-122,Parque del Palpo Franz Lizet 5598 esq. Johaanes Brahms,2,Parque,0
-122,Johannes Brahms entre Mendelssohn y Donizetti,2,Parque,1
-122,Johannes Brahms entre Liszt y Berlioz,2,Parque,1
-122,Johann Sebastian Bach entre Millet y Velazquez,2,Parque,1
-122,Kid's Land Luduteca  Ludwig Van Beethoven 5151 Tel. 13809994,4,Juegos Infantiles,2
-201,Ecado Queiros entre Patria y Victor Hugo,3,JardÌn,0
-300,La primavera,2,Parque,0
-18,Paseo de la Arboleda (calle) y Guayabos,3,JardÌn,1
-51,Av. La Calma entre Sagitario y Osc.Mayor,2,Parque,1
-51,Calle Toro  entre Sirio y Perseo,3,JardÌn,1
-51,Calle Pegaso entre Sagitario y Osc. Mayor,3,JardÌn,1
-101,Entre San Rafael y San Idelfonso,3,JardÌn,0
-101,San Gabriel y San Bernardo,3,JardÌn,0
-101,San Juan y San Gabriel,3,JardÌn,0
-355,Entre Monarca y P. Marquez,2,Parque,1
-401,,0,Desconocido,0
-89,Por Paseo Reina Victoria,2,Parque,0
-89,"Paseo Rey Juan Carlos, Reyes Catolicos, Paseo Reina Isabel y Paseo Reina Beatriz",3,JardÌn,0
-89,"Paseo Rey Arturo, En parque por paseo Reina Victoria",4,Juegos Infantiles,0
-334,Datil y Oasis Propiedad municipal COMUDE,2,Parque,1
-321,Lago Camacuaro y Lago Jinebra entre calle 8,2,Parque,0
-104,L·baro Patrio,4,Juegos Infantiles,0
-317,Esparta y Avenida AmËricas,2,Parque,0
-17,Calle Egipcio entre Griegos y Romanos,3,JardÌn,0
-17,Calle Griegos y del Domen (Descuidado),3,JardÌn,1
-17,Circuito Medas y Av. Romanos,3,JardÌn,1
-363,Av. Jesus entre Marina Vallarta y Mazatlan,3,JardÌn,0
-12,"Tafeta y Casimir, en Fracc. Telares",4,Juegos Infantiles,1
-12,"Tafeta y Casimir, en Fracc. Telares",2,Parque,1
-22,"Mercurio, Diamante y Paseo de la Primavera",2,Parque,1
-297,Centro del poblado,1,Plaza Civica,1
-248,Shamash 4800,2,Parque,1
-248,Shamash 4800,4,Juegos Infantiles,1
-323,Circuito Federalistas y Av. Central,3,JardÌn,1
-323,Circuito Federalistas y Av. Central,4,Juegos Infantiles,1
-447,-Inexistente-,99,NINGUNO,99
-373,Jalisco y Puebla,1,Plaza Civica,1
-448,"Santa Rosa, entre Santa Ana y Santa Teresa",3,JardÌn,1
-449,Avenida del ParaÌso y Lirios,3,JardÌn,1
-449,Av Santa LucÌa,3,JardÌn,1
-255,Plaza CÌvica,4,Juegos Infantiles,1
-255,"Hidalgo, entre Leona Vicario y Ju·rez",1,Plaza Civica,1
-61,"Tungsteno, entre plata, oro y arroyo",3,JardÌn,1
-164,Unidad deportiva,4,Juegos Infantiles,1
-259,- Inexistente -,99,NINGUNO,99
-364,Manuel AcuÒa y Benito Ju·rez,1,Plaza Civica,1
-364,Guadalupe Victoria y 16 de septiembre,4,Juegos Infantiles,1
-1,- Inexistente -,99,NINGUNO,99
-261,- Inexistente -,99,NINGUNO,99
-137,Av. Santa Ana,2,Parque,1
-381,- Inexistente -,99,NINGUNO,99
-52,Leona Vicario,4,Juegos Infantiles,1
-80,,99,NINGUNO,99
-140,,0,,0
-140,Fresno y Pirul,4,Juegos Infantiles,1
-452,Cerezo de Cayena,3,JardÌn,1
-452,Bamb˙ y Cerezo de Cayena,4,Juegos Infantiles,1
-452,Bamb˙ 15 y Bamb˙,3,JardÌn,1
-452,Bamb˙ 35 y Bamb˙ 16,4,Juegos Infantiles,1
-452,Bamb˙ 113 y Primavera,4,Juegos Infantiles,1
-452,Primavera y Granado,3,JardÌn,1
-452,Bamb˙ 285 y Primavera,2,Parque,1
-95,Melchor Ocampo y Av. Colli,1,Plaza Civica,1
-95,RamÛn Corona y Melchor Ocampo,4,Juegos Infantiles,1
-236,San Miguel y Las Torres,3,JardÌn,1
-155,Tchaikovski y Matador,2,Parque,1
-155,Tchaikovsky y Matador,4,Juegos Infantiles,1
-322,MisiÛn San Antonio y San Esteban,2,Parque,1
-322,MisiÛn San Pedro y San MatÌas,3,JardÌn,2
-453,"Parque Metropolitano - Av. EcÛnomos, Independencia, Beethoven",2,Parque,1
-258,Andador Nueva Primavera y Playa Banderas,3,JardÌn,1
-258,Andador Playa Bonita y Playa Banderas (en mal estado),4,Juegos Infantiles,1
-141,- Inexistente -,99,NINGUNO,99
-85,Cedros y Av. Fresno,2,Parque,1
-85,Cedros y Pinos,1,Plaza Civica,1
-85,Jacarandas y Araucarias,3,JardÌn,1
-85,Palmillas y Fresnos,2,Parque,1
-85,Mezquite y Encinos,3,JardÌn,1
-85,Eucaliptos y Ceibas,3,JardÌn,1
-85,Roble y Barcinos,3,JardÌn,1
-375,"Norte y oriente de la colonia, ingreso al Bosque del Nixticuil",2,Parque,1
-454,- Inexistente -,99,NINGUNO,99
-90,- Inexistente -,99,NINGUNO,99
-113,Conocida,4,Juegos Infantiles,1
-451,,99,NINGUNO,99
-263,San RamÛn (frente al templo),1,Plaza Civica,1
-455,,99,NINGUNO,99
-180,- Inexistente -,99,NINGUNO,99
-250,"Puerto Vallarta, entre Altamira y Puerto PrÌncipe",2,Parque,1
-250,Plaza de Toros en Puerto Chamela y Puerto Topolobampo,0,Desconocido,2
-19,Isaac Newton y Lira,2,Parque,1
-19,Aurora Boreal Norte y Sur,2,Parque,1
-19,"Aurora Boreal Norte, Centauro y Pedro SimÛn Laplace",2,Parque,1
-19,Serpentario entre Carnero y Sagitario,2,Parque,1
-19,Keppler y Laplace,2,Parque,1
-19,Kepler y Ptolomeo,2,Parque,1
-380,Keppler y Ptolomeo,2,Parque,1
-369,Casco de la Hacienda,1,Plaza Civica,1
-456,Inexistente,99,NINGUNO,99
-365,- Inexistente -,99,NINGUNO,99
-169,- Inexistente -,99,NINGUNO,99
-97,- Inexistente -,99,NINGUNO,99
-146,Av. Las Torres y Vicente ¡lvarez,4,Juegos Infantiles,1
-226,- Inexistente -,99,NINGUNO,99
-93,Playa Condesa y Playa Bruja,3,JardÌn,1
-93,Playa del Rey y Playa del Tesoro,3,JardÌn,1
-34,Pirul y Toronja,2,Parque,1
-151,"Alberca y Juegos infantiles, en el interior de la colonia",4,Juegos Infantiles,2
-426,- Inexistente -,99,NINGUNO,99
-427,- Inexistente -,99,NINGUNO,99
-14,"Rinconada de C·ceres, Rinconada de Vizen y Rinconada PeÒaranda",2,Parque,1
-125,JardÌn de jazmines,3,JardÌn,1
-125,La creaciÛn y Frida Khalo,3,JardÌn,1
-125,El puente y Av. La Castilla,3,JardÌn,1
-125,Vista del Pinar y Vista del Mar,3,JardÌn,1
-125,Provincia de Guadalajara y Provincia de Asturias,3,JardÌn,1
-154,"Josco, Estocada, Revolera, Topacarmelo",2,Parque,1
-376,- Inexistente -,99,NINGUNO,99
-191,- Inexistente -,99,NINGUNO,99
-337,-Inexistente-,99,NINGUNO,99
-459,- Inexistente -,99,NINGUNO,99
-457,,99,NINGUNO,99
-458,,99,NINGUNO,99
-338,San Bernardo (¡rea verde descuidada),3,JardÌn,1
-411,Magnolias y Av. de las Calandrias,2,Parque,1
-411,Magnolias y Av. de las Calandrias,4,Juegos Infantiles,1
-460,Valle de Atotonilco y Valle de Atemajac,1,Plaza Civica,1
-460,Valle de Atotonilco y Valle de Atemajac,4,Juegos Infantiles,1
-460,Terraza en Antiguo camino a Copalita y Valle de Atemajac,0,Desconocido,1
-461,Av. Paraiso Poniente,4,Juegos Infantiles,2
-461,Campo Corona,4,Juegos Infantiles,2
-461,P. Poniente,0,Centro Barrial,2
-50,Eca Do Queiros,1,Plaza Civica,1
-46,- Inexistente -,99,NINGUNO,99
-54,"San Felipe Neri y San Antonio de Padua, entre Santo Tom·s de Aquino",2,Parque,1
-67,- Inexistente -,99,NINGUNO,99
-62,- Inexistente -,99,NINGUNO,99
-130,- Inexistente -,99,NINGUNO,99
-128,- Inexistente -,99,NINGUNO,99
-466,Menorca y Canarias,2,Parque,1
-466,Av. Federalistas y Castilla La Mancha,2,Parque,1
-466,RÌo Henares y Sierra Morena,2,Parque,0
-466,RÌo Henares y Sierra Morena,4,Juegos Infantiles,1
-466,Castilla la Mancha y El Escorial,3,JardÌn,1
-466,Coto Alhambra,2,Parque,1
-466,Coto Valladolid,2,Parque,1
-465,- Inexistente -,99,NINGUNO,99
-464,ViÒedos y ViÒa Alegre,3,JardÌn,1
-464,ViÒa Norte,3,JardÌn,1
-463,Priv. del Levante,2,Parque,1
-463,Priv. Sol Naciente y Sol Naciente,2,Parque,1
-463,Priv. Girasol y Girasol,2,Parque,1
-463,Carro del Sol y de la Aurora,3,JardÌn,1
-462,Galicia y Bosque ValdepeÒas,3,JardÌn,1
-339,Calle 8,2,Parque,1
-339,Mirador en Calle 8,2,Parque,1
-339,"Calle 8, Coto Santa Luza",4,Juegos Infantiles,1
-339,"Terraza en Coto Santa Luza, Calle 8",2,Parque,2
-20,EcÛnomos y J. Brahms,2,Parque,1
-475,Av. Quinta del bosque,3,JardÌn,2
-475,"Casa Club, av. Quinta del Bosque",3,JardÌn,2
-378,Inexistente,99,Desconocido,99
-198,Valle del tiber y valle vulga,3,JardÌn,1
-198,Valle del mayo y valle del balsas,3,JardÌn,1
-198,Valle maguey y de las yucas,3,JardÌn,1
-186,Inexistente,99,Desconocido,99
-178,Inexistente,99,Desconocido,99
-185,"Inexistente",99,Desconocido,99
-197,Tulum entre Palenque y Kabah,3,JardÌn,1
-182,Av. Tepeyac y Prados Ixtepete,3,JardÌn,1
-182,Tlalpanj y J. LÛpez Portillo,1,Plaza Civica,1
-182,J. LÛpez Portillo y av. Tepeyac,4,Juegos Infantiles,1
-209,"Inexistente",99,Desconocido,99
-213,Inexistente,99,Desconocido,99
-215,Paseo de la Luma entre C·ncer y Aurora Boreal,2,Parque,1
-211,Ballena y SalmÛn,3,JardÌn,1
-211,"Ballena, Arrenque y Mariposa",0,,0
-212,Av. Obsidiana y av. M. champagnat,2,Parque,1
-212,Av. Champagnat y Charal,2,Parque,1
-245,Inexistentes,99,NINGUNO,99
-476,Inexistente,99,Desconocido,99
-267,,0,Desconocido,0
-267,,99,NINGUNO,0
-479,"Entre V. Tenochtitl·n, V. Palenque y V. Cuicuilco",4,Juegos Infantiles,1
-478,,99,NINGUNO,0
-477,,99,NINGUNO,99
-142,ProlongaciÛn JosÈ LÛpez Portillo y Privada Tepeyac,4,Juegos Infantiles,0
-350,,99,NINGUNO,0
-217,San Juan Bosco y Abogados,3,JardÌn,1
-229,,99,NINGUNO,0
-268,,99,NINGUNO,0
-269,,99,NINGUNO,0
-270,,99,NINGUNO,0
-480,Av. ProlongaciÛn Guadalajara y Ajijic,3,JardÌn,1
-240,,0,Desconocido,0
-486,,99,NINGUNO,0
-484,Mozart y Tchaikovsky,3,JardÌn,1
-485,,99,NINGUNO,0
-483,,99,NINGUNO,0
-482,Palmas y Laureles,1,Plaza Civica,1
-481,,99,NINGUNO,0
-252,Paseo de las Aves y Arroyo,2,Parque,1
-252,Camino a las Misiones y Arroyo,2,Parque,1
-134,,99,NINGUNO,0
-214,Circuito La Loma,2,Parque,2
-301,Paseo de los Virreyes N∞ 555,2,Parque,1
-301,Por la Barranca,2,Parque,1
-490,,99,NINGUNO,0
-491,,99,NINGUNO,0
-489,,99,NINGUNO,0
-487,,99,NINGUNO,0
-488,,99,NINGUNO,0
-126,Frente al templo (Atrio con bancas),1,Plaza Civica,1
-492,,99,NINGUNO,99
-175,Morelos y Vicente Guerrero,1,Plaza Civica,1
-298,Entre Playa Verde y Playa Bonita,3,JardÌn,1
-289,,99,NINGUNO,0
-295,Prados de los Lirios y Pradoas Cipres,2,Parque,1
-493,,99,NINGUNO,0
-494,,99,NINGUNO,0
-303,Pirul y Azalea,3,JardÌn,1
-311,,99,NINGUNO,0
-315,,99,NINGUNO,0
-495,Paseo de las Aves y Av. Las Canteras,3,JardÌn,1
-495,MisiÛn del Bajio y Paseo de las Aves,3,JardÌn,1
-495,Terraza y JardÌn con juegos infantiles en Circuito del Atalaya,4,Juegos Infantiles,1
-495,Ciurcuito del Atalaya,2,Parque,1
-495,Av. Canteras,3,JardÌn,1
-496,Circuito Parques del Centinela,3,JardÌn,1
-496,Circuito Parques del Centinela,4,Juegos Infantiles,1
-497,En cada uno de los Cotos,3,JardÌn,1
-497,"Paseo de la Castilla, frente al coto El Escorial",2,Parque,1
-363,Av. Jesus entre Marina Vallarta y Mazatlan,4,Juegos Infantiles,0
-17,Calle Griegos y Persas del Centro Escolar,2,Parque,1
-430,"Retornos de: Los Alamos, Santa Fe, Las Cruces, Artesia y Portales.",3,JardÌn,1
-432,San AgustÌn Caloca,2,Parque,1
-119,5 de Mayo y L·zaro C·rdenas,1,Plaza Civica,1
-433,Campanario y Rodeo,3,JardÌn,1
-433,Rodeo y Coronado,4,Juegos Infantiles,1
-433,Coronado y Rodeo,3,JardÌn,1
-433,Centro social en Rodeo y Coronado,0,Desconocido,1
-434,,99,NINGUNO,0
-436,Circuito de las Flores Sur y Circuito Mimosas,3,JardÌn,1
-436,Circuito de las Flores Poniente y Circuito de las Flores Poniente (ambas calles se llaman igual),3,JardÌn,1
-271,Antonio Cruzado y L·zaro C·rdenas,4,Juegos Infantiles,1
-271,Antonio Cruzado y L·zaro C·rdenas,3,JardÌn,1
-271,Fray Francisco Paldo y San Mateo,3,JardÌn,1
-271,Fray Miguel Pieras (Terraza/Centro Social),1,Plaza Civica,1
-167,"Conocido, Balneario Huaxtla",2,Parque,2
-56,"Entre CÛndor, Palomas y Jilguero",3,JardÌn,1
-234,Cempasuchil y Violeta,3,JardÌn,1
-437,San Roberto y San Roberto 110,4,Juegos Infantiles,1
-437,"Centro Social, en San Mateo y San Mateo 210",0,Desconocido,1
-202,Av. Inglaterra y Av. de los Escritores,3,JardÌn,1
-202,Novelistas y Av. Patria,3,JardÌn,1
-280,"Tom·s Fuller, J.L. Stevenson y Naciones Unidas",2,Parque,1
-280,"Tom·s Fuller, J.L. Stevenson y Naciones Unidas",4,Juegos Infantiles,1
-187,Shakespeare e Inglaterra,2,Parque,1
-187,R. Kipling y Honorato de Balzac,2,Parque,1
-319,"Playa de Santiago, entre Volc·n TancÌtaro y Av. Paseo de los Volcanes",2,Parque,1
-179,Novelistas y Escritores,3,JardÌn,1
-335,Rinconada de la OrquÌdea y Girasol,2,Parque,1
-335,Manuel AcuÒa y Rinconada Amapola (Parque Hundido),2,Parque,1
-383,"Cd. QuerÈtaro, Constituyentes Jal., y Teatro de la Rep˙blica",3,JardÌn,1
-383,"Cd. QuerÈtaro, EjÈrcito Constitucioanlista y Constituyentes",3,JardÌn,1
-205,Inglaterra y Piscis,3,JardÌn,1
-205,Libra y Acuario,3,JardÌn,1
-308,Glorieta de Av. Miguel Angel,3,JardÌn,1
-440,Alcatraz y Tulip·n,2,Parque,1
-440,Paseo del Almendro y Granado (JardÌn y Centro Social),3,JardÌn,1
-440,Frambuesa y Granado,4,Juegos Infantiles,1
-440,Tuna y Tuna 84,3,JardÌn,1
-440,Pera y Naranja,3,JardÌn,1
-440,Toronja y Toronja 113,2,Parque,1
-442,Circuito Hacienda Palomas y Retorno Hacienda de la Noria,4,Juegos Infantiles,1
-442,Circuito Haciena Las Palomas,2,Parque,1
-385,Andador Ma. Cristina PeÒa,2,Parque,1
-18,Paseo Arboledas y Ahuehuetes,3,JardÌn,1
-18,Paseo Arboledas y Casuarinas,3,JardÌn,1
-18,"Paseo Arboledas, entre Av. Tesist·n y Santa Margarita",4,Juegos Infantiles,1
-18,Paseo Arboledas y Pinabetes,4,Juegos Infantiles,1
-104,(Parque Hundido ) en L·baro Patrio,2,Parque,1
-232,G. Leroux y Rosario Castellanos,2,Parque,1
-232,Ariosto y Cavafis,3,JardÌn,1
-336,Mabuse y Rosario Castellanos,2,Parque,1
-276,Volc·n y Nieve,3,JardÌn,1
-302,"Rancho Contento (Asadores, Parques, Casa club, Sombrillas, etc.)",2,Parque,2
-360,"Juan Manuel Ruvalcaba, entre Morelos y Pedro Moreno",1,Plaza Civica,1
-446,Francisco Zarco y Nicol·s Bravo,4,Juegos Infantiles,1
-82,Av. del Tesoro y Priv. RÌo Apozolco,2,Parque,1
-11,Sierra de BolaÒos y Sierra de Quila,3,JardÌn,1
-11,Sierra de Autl·n y Sierra Comanja,3,JardÌn,1
-11,Sierra Pihuamo y Sierra de Mazamitla,3,JardÌn,1
-291,"Paseo de los Abedules, Gardenias y Guam˙chil",4,Juegos Infantiles,1
-467,Circuito Real de Tesist·n 245,2,Parque,1
-467,CamellÛn del Circuito Real de Tesist·n,3,JardÌn,1
-467,Circuito Real de Tesist·n 161,4,Juegos Infantiles,1
-467,Terraza en Circuito Real de Tesist·n 161,3,JardÌn,1
-468,Coto Sevilla,3,JardÌn,1
-468,Jalisco,4,Juegos Infantiles,1
-468,Terraza en Jalisco y Antiguo Camino a Tesist·n,2,Parque,1
-470,Ingreso a la colonia,2,Parque,1
-470,Casa Blanca 65 (Parque Municipal),2,Parque,1
-470,Terraza en Casa Blanca 65,3,JardÌn,1
-470,Parque con terraza y juegos infantiles en Av Casa Blanca,2,Parque,1
-470,Todas las esquinas de Av. Casablanca,3,JardÌn,1
-469,- Inexistente -,99,NINGUNO,99
-471,Cibeles y Priv. de Hera,2,Parque,1
-471,RÌo Oise y Circuito de los 4 RÌos,2,Parque,1
-471,Circuito del TritÛn,1,Plaza Civica,1
-471,Carretera a Tesist·n,3,JardÌn,1
-394,Emiliano Zapata y AgustÌn YaÒez,1,Plaza Civica,1
-394,Emiliano Zapata y AgustÌn YaÒez,4,Juegos Infantiles,1
-394,Balneario Chato Rojas al fondo de la calle Tabachines,0,Desconocido,2
-150,Eje Central y Cerrada Banderilleros,1,Plaza Civica,1
-150,Eje central y Cerrada de la Calesa,3,JardÌn,1
-150,Casa club en Cda. Matador y Curro Rivera,0,Desconocido,2
-150,Cda del Tercio y Cda del Matador,3,JardÌn,1
-69,Aranzaz˙ y OlÌmpica,3,JardÌn,1
-69,Aranzaz˙ y OlÌmpica,4,Juegos Infantiles,1
-143,- Inexistente -,99,NINGUNO,99
-159,Calle Leona Vicario,4,Juegos Infantiles,1
-163,- Inexistente -,99,NINGUNO,99
-153,- Inexistente -,99,NINGUNO,99
-64,- Inexistente -,99,NINGUNO,99
-133,Parres Arias,4,Juegos Infantiles,1
-148,Paseo de los ganaderos y Ganaderos Sur,3,JardÌn,1
-148,Ganaderos Poniente y Norte,3,JardÌn,1
-148,Ganaderos Poniente y Sur,3,JardÌn,1
-124,Velazquez y Durero,2,Parque,1
-78,JardÌn de Av. Palmas y Vallarta,4,Juegos Infantiles,1
-78,Glorieta de Calzada Central y Norte,1,Plaza Civica,1
-78,Glorieta de Calzada Pirules y Vallarta,3,JardÌn,1
-68,-Inexistente-,99,NINGUNO,99
-70,12 de diciembre y Juan Diego (Glorieta),3,JardÌn,1
-72,- Inexistente -,99,NINGUNO,99
-472,Todos los cotos,4,Juegos Infantiles,1
-472,Todos los cotos,3,JardÌn,1
-472,Maracuya y Canelo,1,Plaza Civica,1
-473,- Inexistente -,99,NINGUNO,99
-171,- Inexistente -,99,NINGUNO,99
-31,- Inexistente -,99,NINGUNO,99
-75,NiÒo obrero y Parque Juan Diego,3,JardÌn,1
-75,Santa Teresa de Jesus,2,Parque,2
-318,Severo DÌaz y JosÈ Ma. Arreola,3,JardÌn,1
-266,ProlongaciÛn Colli y Arrayan,1,Plaza Civica,1
-96,Olivos y grana,3,JardÌn,1
-96,Guerrero y Grana,3,JardÌn,1
-96,Guerrero y tepito,4,Juegos Infantiles,1
-396,Inexistente,99,Desconocido,99
-275,Inexistente,99,NINGUNO,99
-474,Inexistente,99,Desconocido,99
-497,"Paseo de las Castilla, frente al coto El Escorial",4,Juegos Infantiles,1
-353,,99,NINGUNO,0
-108,Constituyentes y Gral. Juan Dominguez,1,Plaza Civica,1
-346,"Mirador Dr. Atl, Carretera a Saltillo",3,JardÌn,1
-346,"Balneario ""El Amigo"" Carretera a San Esteban",3,JardÌn,2
-343,Rodeo en Calle Benito Ju·rez s/n,3,JardÌn,2
-310,Laplece y Alioth entre Carnero y Sagitario,2,Parque,1
-324,Esmeralda y Brillante,2,Parque,1
-324,"Ascerina, Gama y Ambar",2,Parque,1
-251,MisiÛn Atequiza y Zapotlanejo (Parque y juegos infantiles),2,Parque,1
-498,Paseo de las Quintas Poniente. (Parque y Juegos infantiles),2,Parque,1
-498,Valle de las Quintas Oriente y Parque de las Quintas,3,JardÌn,1
-498,Valle de las Quintas Oriente y Parque de las Quintas.,4,Juegos Infantiles,1
-498,Parques de las Quintas (Coto Real Quintas del Valle),4,Juegos Infantiles,1
-499,EscuadrÛn 2001 (Terraza JardÌn),3,JardÌn,1
-499,EscuadrÛn 201,4,Juegos Infantiles,1
-499,Valle de Mazamitla (Terraza JardÌn),3,JardÌn,1
-499,Valle de Mazamitla (Terraza jardÌn),3,JardÌn,1
-500,Valle de MÈxico y privada Mandarinos Poniente (Terraza),3,JardÌn,1
-501,Valle de San Pablo y Valle de San Francisco (Parque y Terraza),2,Parque,1
-502,Calle Rinconada (Terraza),2,Parque,1
-502,Calle Rinconada,4,Juegos Infantiles,1
-503,Calle Tulipanes y Gardenia,3,JardÌn,1
-503,Gardenia y Alcatraz,4,Juegos Infantiles,1
-503,Gardenia y Alcatraz,2,Parque,1
-503,Azaleas y Gladiola,3,JardÌn,1
-504,Calle Tuxpan (Terraza),3,JardÌn,1
-7,"Guadalupe Gallo Frente al 22, Parque del Sindicato de Trabajadores de la Industria Embotelladora",2,Parque,2
-349,"hidalgo y Francisco I. Madero, entre Privada hidalgo",1,Plaza Civica,1
-342,circuito San Bernardo,4,Juegos Infantiles,2
-342,Alberca en circuito San Bernardo,0,Desconocido,2
-342,Terraza en circuito San Bernardo,0,Desconocido,2
-341,Alberca en La Colina Coto N∞ 5395,0,Desconocido,2
-341,"Terraza en La Colina, Coto N∞ 5395",0,Desconocido,2
-341,"Terraza en Compina, Coto N∞ 5395",0,Desconocido,2
-341,"Terraza ""Pradera"" Coto N∞ 5395",0,Desconocido,2
-341,"Terraza en Paseos la Loma, coto N∞ 5395",0,Desconocido,2
-341,"Terraza  en La alameda, Coto N∞ 5395",0,Desconocido,2
-309,,99,NINGUNO,99
-314,,99,NINGUNO,99
-287,,99,NINGUNO,99
-506,Terraza en privada Compositores,0,Desconocido,2
-506,Privada compositores,4,Juegos Infantiles,2
-505,Calle Puerta la Plata,3,JardÌn,2
-329,Inexistente,99,NINGUNO,99
-331,Inexistente,99,NINGUNO,99
-357,Coban y Playa de Chamela,2,Parque,1
-357,Coban y Playa de Chamela,4,Juegos Infantiles,1
-420,"Calle Ejido del Colli, en las faldas del cerro",2,Parque,1
-420,"Calle Ejido del Colli, en las faldas del cerro",4,Juegos Infantiles,1
-160,Luis Gonzaga Osollo esq. RincÛn de los Cipreses,3,JardÌn,1
-374,- Inexistente -,99,NINGUNO,99
-129,- Inexistente -,99,NINGUNO,99
-507,,0,,0
-508,Calle de la Bondad,4,Juegos Infantiles,1
-508,Calle de la alegrÌa y calle de la fraternidad,3,JardÌn,1
-508,Fraternidad y Amistad,4,Juegos Infantiles,1
-508,Terraza p˙blica en Fraternidad y Amistad,2,Parque,1
-509,Villa Caracol y Villa Perla,4,Juegos Infantiles,1
-509,Villa del Sol y Villa Coral,2,Parque,1
-479,Coto La Arboleda,3,JardÌn,2
-479,Paseo de la maternidad,2,Parque,1
-510,Inexistente,99,NINGUNO,99
-356,Plaza CÌvica,1,Plaza Civica,1
-15,"Balneario Los Alamitos, en Encino 1010",2,Parque,2
-511,Inexistente,99,NINGUNO,99
-512,Bosques de Aguascalientes y Bosques del Centinela,3,JardÌn,1
-512,Bosques de Jalisco y Bosques del Centinela,4,Juegos Infantiles,1
-512,Terraza P˙blica y Centro Social en Circuito Bosques del Centinela y Av. Bosques del Centinela,2,Parque,1
-512,Bosques de Nayarit,3,JardÌn,1
-30,,99,NINGUNO,99
-65,"Plaza de las AmÈricas, en Av. Hidalgo",1,Plaza Civica,1
-65,Av. hidalgo y Allende,4,Juegos Infantiles,1
-332,,99,NINGUNO,99
-516,"Rinconada de los Pinos y Rinconada de los Laureles Poniente (Parque, terraza y juegos infantiles)",2,Parque,1
-333,Casa Club en Rinconada La Joya,2,Parque,2
-516,Rinconada de los mandarinos y Pinos,3,JardÌn,1
-516,Rinconada de los mandarinos y cedros,3,JardÌn,1
-516,Rinconada de las Limas y Rinconada de los duraznos,3,JardÌn,1
-327,Paseo del Iris,4,Juegos Infantiles,2
-389,,99,NINGUNO,99
-404,Playa Chamela N∞ 1315,2,Parque,1
-419,Circuito Vista del Sol,4,Juegos Infantiles,1
-421,Tulum y Palenque,2,Parque,1
-515,Privada de los Sauces y Rinconada de los Sauces.,4,Juegos Infantiles,1
-515,Terraza en Privada de los Sauces y Rinconada de los Sauces,3,JardÌn,1
-514,Sendero de los Laureles Sur,4,Juegos Infantiles,1
-514,Senderos de las Jacarandas Sur,4,Juegos Infantiles,1
-3,Privada Los Abetos,3,JardÌn,2
-3,Privada Los Abetos,4,Juegos Infantiles,2
-3,Terraza en Privada los Abetos,0,Desconocido,2
-107,,99,NINGUNO,99
-517,,99,NINGUNO,99
-340,,99,NINGUNO,99
-372,Av. Tepeyac y Av. de los Leones,4,Juegos Infantiles,1
-392,,99,NINGUNO,99
-285,Av. del Pinar y TajÌn,3,JardÌn,1
-285,Cuicuilco y Aztl·n,2,Parque,1
-285,Teotihuacan y Tzintzunzan,2,Parque,1
-285,Sierra de Tapalpa y Av. del Pinar,4,Juegos Infantiles,1
-285,Sierra de Tapalpa y Av. del Pinar,2,Parque,1
-285,"Foro en Av. del Pinar, frente al 508, esq. TajÌn",2,Parque,1
-519,Av. Bosque de los Encinos y privada de la Paz,4,Juegos Infantiles,1
-519,Av. Bosque de los Encinos y Privada de la Paz,3,JardÌn,1
-519,Privada de la Concordia y Privada de la Paz,3,JardÌn,1
-519,Circuito de la Calma Poniente,3,JardÌn,1
-520,Parque en Lima y Mandarina,4,Juegos Infantiles,1
-520,LimÛn y San Gonzalo,3,JardÌn,1
-520,LimÛn y San Gonzalo,4,Juegos Infantiles,1
-520,Parque en Fresno y Eucalipto,4,Juegos Infantiles,1
-518,Gaviota y Paloma,2,Parque,1
-518,Centro Social en prolongaciÛn Venustiano Carranza y Paloma,0,Desconocido,1
-521,Casa Club con juegos y Terraza en Calle Siena (Coto Mil·n),4,Juegos Infantiles,2
-521,Casa club con terraza en Florencia y San Remo (Coto TurÌn),4,Juegos Infantiles,2
-522,Con Terraza y Alberca en Coto Solares Antara,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Saveira,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Santa Rosa,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Uno,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Dos,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Tres,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Cuatro,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Cinco,3,JardÌn,2
-522,Con Terraza y Alberca en Coto Seis,3,JardÌn,2
-523,,99,NINGUNO,99
-524,Santa Catalina Poniente,3,JardÌn,1
-524,Santa Catalina norte,3,JardÌn,1
-524,Santa Catalina Norte,4,Juegos Infantiles,1
-524,Santa Catalina Poniente,2,Parque,1
-524,Santa Catalina Poniente,4,Juegos Infantiles,1
-218,Inexistente,99,NINGUNO,99
-45,Inexistente,99,NINGUNO,99
-43,Inexistente,99,NINGUNO,99
-27,Inexistente,99,NINGUNO,99
-526,RÌo Arauca y RÌo Orinoco Ote.,3,JardÌn,1
-526,RÌo Arauca y RÌo Meta Oriente,3,JardÌn,1
-525,Ganaderos de Jalisco y Limousin,3,JardÌn,1
-525,Parque con juegos infantiles en Limousin,2,Parque,1
-525,Parque con Terraza en Angus N∞ 355,2,Parque,1
-525,Parque con juegos infantiles y terraza en Brahman,2,Parque,1
-513,Carlos VillaseÒor y Andador 17 Oriente (en estado de abandono),3,JardÌn,1
-513,Sebasti·n Allende y 17 Central  (en estado de abandono),3,JardÌn,1
-513,Francisco Mujica y Andador 15  (en estado de abandono),3,JardÌn,1
-513,"Enrique DÌaz de LeÛn, entre Andador 15 y Andador 11  (en estado de abandono)",3,JardÌn,1
-513,Andador 1 y Enrique DÌaz de LeÛn  (en estado de abandono),3,JardÌn,1
-149,Fermin Riestra y Manuel Villalongin,1,Plaza Civica,1
-40,Inexistente,99,NINGUNO,99
-527,Inexistente,99,NINGUNO,99
-108,Av. Constituyentes y Manuel Aguirre,3,JardÌn,1
-108,Obreros de Cananea y G. MelitÛn AlbaÒes,2,Parque,1
-108,obreros de Cananea en parque P˙blica,4,Juegos Infantiles,1
-528,,3,JardÌn,1
-117,,99,NINGUNO,99
-388,Plan de Guadalupe y And. Cantera Gris,2,Parque,1
-530,Inexistente,99,NINGUNO,99
-531,,0,Desconocido,0
-531,Inexistente,99,NINGUNO,99
-531,,0,Desconocido,0
-277,Inexistencia,99,NINGUNO,99
-529,Inexistencia,99,NINGUNO,99
-532,Calle San Rafael,4,Juegos Infantiles,1
-533,,99,NINGUNO,99
-244,,0,Desconocido,0
-25,Zaragoza y Emiliano Zapata,1,Plaza Civica,1
-297,,0,,0
-297,En el bosque,0,Balneario las tinajitas,0
-534,Av. de las Flores y Canal,0,Jardin,0
-534,Paseo de la Relaeza y Monarquia Britanica,0,Terraza jardin,0
-534,Monarquia Sueca,0,Terraza jardin,0
-534,Real de Bosque y Federalistas,0,Terraza jardin,0
-534,Monarquia EspaÒola,0,Terraza jardin,0
-535,Rinconada del Camichin y Caoba,0,Terraza jardin,0
-535,Vino rosado y Barranca,0,Terraza-jardin-juegos,2
-535,Vino jerez y Alambique,0,Terraza-jardin-juegos,2
-535,Primavera,0,Terraza-jardin-juegos,2
-537,Dentro del Coto,4,Juegos Infantiles,2
-537,Dentro del Coto,0,Alberca y Terraza,2
-539,Senda los Adelfos,0,Parque y juegos,1
-539,Av. del Bosque,2,Parque,1
-540,Valle de Zapopan y Valle d los Molino,0,Juegos Infantiles y Jardin,1
-540,Valentin Vidrio Aece y Valle del Sol,2,Parque,1
-540,Valle de los Molinos,0,Jardin y Juegos Infantiles,1
-541,Astoria coto 1,0,Jardin y Juegos,1
-541,Florencia y Tizano,0,Jardin y Juegos,1
-541,Rafaelo y Napoles,0,Jardin y Juegos,1
-543,De las Limas y Magnolia,0,Jardin,1
-544,San Felipe,0,Jardin y Juegos Infantiles,1
-546,Las Palmas Sur,4,Juegos Infantiles,1
-545,Prolongacion San Miguel y Granada,0,Jarin y Juegos Infaniles,2
-545,Prolongacion San Miguel y Granada,0,Terraza y Juegos Infantiles,2
-547,Av. Lago Real,4,Juegos Infantiles,1
-547,Juegos Infantiles,0,Av. Lago Real,1
+Colonia,Ubicacion,TipoClave,TipoDesc,Clase254,Calle Molino del Salvador,2,Parque,1254,Calle Molino del Salvador,3,Jardin,1407,Calle Villas del Sol,3,Jardin,1105,Calle Lusitania pegado al canal.,3,Jardin,1109,Zona recreativa con jardin y juegos infantiles ademas de contar con cancha de basquetbol.,2,Parque,1109,Orquideas y Girasol (dentro de Casas GEO),3,Jardin,1216,Lomas de los Altos y Av. Zoquipan,3,Jardin,0216,Lomas del Infante entre Lomas del Libano y Lomas de Zoquipan,3,Jardin,1216,Lomas de los angeles y Lomas Verdes (notoriamente descuidado),2,Parque,1233,Manuel Tortoloero entre Vista Hermosa y Santa Lucia,3,Jardin,1233,Vista Hermosa y Manuel M. Tortolero,2,Parque,1106,Mediero No. 613,2,Parque,0106,Mediero No. 613,3,Jardin,0330,Rincanada la Azalea,3,Jardin,0330,Rinconada la Azalea,2,Parque,0103,Miguel Gutierrez,3,Jardin,1103,Blvd. del Rodeo y Prolongacion Pino Suarez,3,Jardin,1103,Miguel Gutierrez,4,Juegos Infantiles,1103,Blvd. del Rodeo y Prolongacion Pino Suarez,4,Juegos Infantiles,1402,Dr. A Carpinteros entre Juan Jose Moreno y Jose Ma. Hidalgo,2,Parque,0402,J.M.E. Gutierrez de Hermosillo y Juan Jose Moreno,3,Jardin,1402,Dr. A Carpintero y Jose Ma. Hidalgo,3,Jardin,1402,Cto. Presidente Jose Ma. Hidalgo y Dr. J.N. Gomez Villasenior,3,Jardin,1402,Dr. A. Carpintero entre Juan Jose Moreno y Jose Ma. Hidalgo,4,Juegos Infantiles,028,Paulino Olvera y Epigmenio Preciado,2,Parque,028,Paulino Olvera y Epigmenio Preciado,3,Jardin,028,Paulino Olvera y Epigmenio Preciado,4,Juegos Infantiles,0233,Vista Hermosa y Manuel M. Tortolero (en el parque),4,Juegos Infantiles,1368,Calle D Colignon y Ma. de la Penia,3,Jardin,0367,Av. Aurelio Ortega (camellon),3,Jardin,1395,Manuel Anaya y V. Rosales,4,Juegos Infantiles,02,Natividad J. Macias y Manuel Anaya,4,Juegos Infantiles,02,Natividad J. Macias y Manuel Anaya,1,Plaza Civica,0366,General Salvador Gonzalez T. y Aldama,3,Jardin,0366,General Salvador Gonzalez T. y Aldama,4,Juegos Infantiles,081,Lomas de los angeles y Lomas Verdes,2,Parque,081,Lomas de los Altos y Av. Zoquipan,3,Jardin,081,Lomas del Infante entre Libano y Lomas de Zoquipan,3,Jardin,0106,Medieros No. 613,1,Plaza Civica,1195,Av. Mariano Barcenas y Luis Quintero,2,Parque,0195,Av. Mariano Barcenas y Luis Quintero,3,Jardin,0195,Av. Mariano Barcenas y Luis Quintero,4,Juegos Infantiles,0325,Alberto Cinta y Vicente Guerrero,2,Parque,0325,Alberto Cinta y Vicente Guerrero,3,Jardin,0325,Prol. Federalismo (COMUDE),4,Juegos Infantiles,1273,Gonzalez Gallo y Plan de Guadalupe,2,Parque,0273,Plan de Guadalupe y Ayala,2,Parque,0273,Plan de Guadalupe y Tlatelolco,2,Parque,0273,Plan de Ayala y Tlatelolco,2,Parque,0273,Gonzalez Gallo y Plan de Guadalupe,3,Jardin,0273,Plan de Guadalupe y Plan de Ayala,3,Jardin,0273,Plan de Guadalupe y Tlatelolco,3,Jardin,0273,Plan de Ayala y Tlatelolco,3,Jardin,0273,Plan de Guadalupe,4,Juegos Infantiles,0273,Plan de Ayala,4,Juegos Infantiles,0162,Plan de Guadalupe y Andador Cantera Rosa,2,Parque,0162,Plan de Guadalupe y Andador Cantera Rosa,3,Jardin,0162,Plan de Guadalupe y Andador Cantera Rosa,4,Juegos Infantiles,038,Jesus J. Martinez y Priv. Canteros (COMUDE),4,Juegos Infantiles,1408,Hipolito Hernandez y Jose Maria Martinez,4,Juegos Infantiles,1112,Juana de Arco y Federico Garcia Lorca,1,Plaza Civica,036,Jose Palomar,1,Plaza Civica,1423,Laureles No. 55,3,Jardin,2423,Laureles No. 55,2,Parque,241,San Mateo y Galeana,2,Parque,041,Bugambilia y San Martin,3,Jardin,041,Modulo COMUDE,4,Juegos Infantiles,1377,Andador Ciruelos y Fresas,3,Jardin,1377,Andador Ciruelos y Fresas,4,Juegos Infantiles,1272,Arco Graciano,3,Jardin,1272,Graciano y Santa Monica,3,Jardin,1272,Santa Monica y Obsidiana,3,Jardin,1272,Santa Monica y Opalo Oriente,3,Jardin,1272,Santa Monica y Agua Marina,3,Jardin,1272,Circuito Fresno Nte.,3,Jardin,1272,Santa Monica y Jade Sur,4,Juegos Infantiles,163,Av. Jesus entre Clavel y Galeana,3,Jardin,163,Rosas y Santa Blanca,4,Juegos Infantiles,1139,Municipal Francisco Villa Torremolinos y Valdepenias,2,Parque,1139,Torremolinos y Valdepenias,3,Jardin,1139,Torremolinos y Valdepenias,4,Juegos Infantiles,191,Calle CTM  y Felipe C. Puerto,2,Parque,1308,Glorieta en Av Miguel Angel,4,Juegos Infantiles,147,,0,Desconocido,0145,"Rosas y Galeanas Privada Azaleas y Azaleas SurBelisario y Azaleas Sur y Privada Violetas",3,Jardin,1122,Parque del Palpo Franz Lizet 5598 esq. Johaanes Brahms,2,Parque,0122,Johannes Brahms entre Mendelssohn y Donizetti,2,Parque,1122,Johannes Brahms entre Liszt y Berlioz,2,Parque,1122,Johann Sebastian Bach entre Millet y Velazquez,2,Parque,1122,Kid's Land Luduteca  Ludwig Van Beethoven 5151 Tel. 13809994,4,Juegos Infantiles,2201,Ecado Queiros entre Patria y Victor Hugo,3,Jardin,0300,La primavera,2,Parque,018,Paseo de la Arboleda (calle) y Guayabos,3,Jardin,151,Av. La Calma entre Sagitario y Osc.Mayor,2,Parque,151,Calle Toro  entre Sirio y Perseo,3,Jardin,151,Calle Pegaso entre Sagitario y Osc. Mayor,3,Jardin,1101,Entre San Rafael y San Idelfonso,3,Jardin,0101,San Gabriel y San Bernardo,3,Jardin,0101,San Juan y San Gabriel,3,Jardin,0355,Entre Monarca y P. Marquez,2,Parque,1401,,0,Desconocido,089,Por Paseo Reina Victoria,2,Parque,089,Paseo Rey Juan Carlos Reyes Catolicos Paseo Reina Isabel y Paseo Reina Beatriz,3,Jardin,089,Paseo Rey Arturo En parque por paseo Reina Victoria,4,Juegos Infantiles,0334,Datil y Oasis Propiedad municipal COMUDE,2,Parque,1321,Lago Camacuaro y Lago Jinebra entre calle 8,2,Parque,0104,Labaro Patrio,4,Juegos Infantiles,0317,Esparta y Avenida Amèricas,2,Parque,017,Calle Egipcio entre Griegos y Romanos,3,Jardin,017,Calle Griegos y del Domen (Descuidado),3,Jardin,117,Circuito Medas y Av. Romanos,3,Jardin,1363,Av. Jesus entre Marina Vallarta y Mazatlan,3,Jardin,012,Tafeta y Casimir en Fracc. Telares,4,Juegos Infantiles,112,Tafeta y Casimir en Fracc. Telares,2,Parque,122,Mercurio Diamante y Paseo de la Primavera,2,Parque,1297,Centro del poblado,1,Plaza Civica,1248,Shamash 4800,2,Parque,1248,Shamash 4800,4,Juegos Infantiles,1323,Circuito Federalistas y Av. Central,3,Jardin,1323,Circuito Federalistas y Av. Central,4,Juegos Infantiles,1447,-Inexistente-,99,NINGUNO,99373,Jalisco y Puebla,1,Plaza Civica,1448,Santa Rosa entre Santa Ana y Santa Teresa,3,Jardin,1449,Avenida del Paraiso y Lirios,3,Jardin,1449,Av Santa Lucia,3,Jardin,1255,Plaza Civica,4,Juegos Infantiles,1255,Hidalgo entre Leona Vicario y Juarez,1,Plaza Civica,161,Tungsteno entre plata oro y arroyo,3,Jardin,1164,Unidad deportiva,4,Juegos Infantiles,1259,- Inexistente -,99,NINGUNO,99364,Manuel Acunia y Benito Juarez,1,Plaza Civica,1364,Guadalupe Victoria y 16 de septiembre,4,Juegos Infantiles,11,- Inexistente -,99,NINGUNO,99261,- Inexistente -,99,NINGUNO,99137,Av. Santa Ana,2,Parque,1381,- Inexistente -,99,NINGUNO,9952,Leona Vicario,4,Juegos Infantiles,180,,99,NINGUNO,99140,,0,,0140,Fresno y Pirul,4,Juegos Infantiles,1452,Cerezo de Cayena,3,Jardin,1452,Bambu y Cerezo de Cayena,4,Juegos Infantiles,1452,Bambu 15 y Bambu,3,Jardin,1452,Bambu 35 y Bambu 16,4,Juegos Infantiles,1452,Bambu 113 y Primavera,4,Juegos Infantiles,1452,Primavera y Granado,3,Jardin,1452,Bambu 285 y Primavera,2,Parque,195,Melchor Ocampo y Av. Colli,1,Plaza Civica,195,Ramon Corona y Melchor Ocampo,4,Juegos Infantiles,1236,San Miguel y Las Torres,3,Jardin,1155,Tchaikovski y Matador,2,Parque,1155,Tchaikovsky y Matador,4,Juegos Infantiles,1322,Mision San Antonio y San Esteban,2,Parque,1322,Mision San Pedro y San Matias,3,Jardin,2453,Parque Metropolitano - Av. Economos Independencia Beethoven,2,Parque,1258,Andador Nueva Primavera y Playa Banderas,3,Jardin,1258,Andador Playa Bonita y Playa Banderas (en mal estado),4,Juegos Infantiles,1141,- Inexistente -,99,NINGUNO,9985,Cedros y Av. Fresno,2,Parque,185,Cedros y Pinos,1,Plaza Civica,185,Jacarandas y Araucarias,3,Jardin,185,Palmillas y Fresnos,2,Parque,185,Mezquite y Encinos,3,Jardin,185,Eucaliptos y Ceibas,3,Jardin,185,Roble y Barcinos,3,Jardin,1375,Norte y oriente de la colonia ingreso al Bosque del Nixticuil,2,Parque,1454,- Inexistente -,99,NINGUNO,9990,- Inexistente -,99,NINGUNO,99113,Conocida,4,Juegos Infantiles,1451,,99,NINGUNO,99263,San Ramon (frente al templo),1,Plaza Civica,1455,,99,NINGUNO,99180,- Inexistente -,99,NINGUNO,99250,Puerto Vallarta entre Altamira y Puerto Principe,2,Parque,1250,Plaza de Toros en Puerto Chamela y Puerto Topolobampo,0,Desconocido,219,Isaac Newton y Lira,2,Parque,119,Aurora Boreal Norte y Sur,2,Parque,119,Aurora Boreal Norte Centauro y Pedro Simon Laplace,2,Parque,119,Serpentario entre Carnero y Sagitario,2,Parque,119,Keppler y Laplace,2,Parque,119,Kepler y Ptolomeo,2,Parque,1380,Keppler y Ptolomeo,2,Parque,1369,Casco de la Hacienda,1,Plaza Civica,1456,Inexistente,99,NINGUNO,99365,- Inexistente -,99,NINGUNO,99169,- Inexistente -,99,NINGUNO,9997,- Inexistente -,99,NINGUNO,99146,Av. Las Torres y Vicente alvarez,4,Juegos Infantiles,1226,- Inexistente -,99,NINGUNO,9993,Playa Condesa y Playa Bruja,3,Jardin,193,Playa del Rey y Playa del Tesoro,3,Jardin,134,Pirul y Toronja,2,Parque,1151,Alberca y Juegos infantiles en el interior de la colonia,4,Juegos Infantiles,2426,- Inexistente -,99,NINGUNO,99427,- Inexistente -,99,NINGUNO,9914,Rinconada de Caceres Rinconada de Vizen y Rinconada Peniaranda,2,Parque,1125,Jardin de jazmines,3,Jardin,1125,La creacion y Frida Khalo,3,Jardin,1125,El puente y Av. La Castilla,3,Jardin,1125,Vista del Pinar y Vista del Mar,3,Jardin,1125,Provincia de Guadalajara y Provincia de Asturias,3,Jardin,1154,Josco Estocada Revolera Topacarmelo,2,Parque,1376,- Inexistente -,99,NINGUNO,99191,- Inexistente -,99,NINGUNO,99337,-Inexistente-,99,NINGUNO,99459,- Inexistente -,99,NINGUNO,99457,,99,NINGUNO,99458,,99,NINGUNO,99338,San Bernardo (area verde descuidada),3,Jardin,1411,Magnolias y Av. de las Calandrias,2,Parque,1411,Magnolias y Av. de las Calandrias,4,Juegos Infantiles,1460,Valle de Atotonilco y Valle de Atemajac,1,Plaza Civica,1460,Valle de Atotonilco y Valle de Atemajac,4,Juegos Infantiles,1460,Terraza en Antiguo camino a Copalita y Valle de Atemajac,0,Desconocido,1461,Av. Paraiso Poniente,4,Juegos Infantiles,2461,Campo Corona,4,Juegos Infantiles,2461,P. Poniente,0,Centro Barrial,250,Eca Do Queiros,1,Plaza Civica,146,- Inexistente -,99,NINGUNO,9954,San Felipe Neri y San Antonio de Padua entre Santo Tomas de Aquino,2,Parque,167,- Inexistente -,99,NINGUNO,9962,- Inexistente -,99,NINGUNO,99130,- Inexistente -,99,NINGUNO,99128,- Inexistente -,99,NINGUNO,99466,Menorca y Canarias,2,Parque,1466,Av. Federalistas y Castilla La Mancha,2,Parque,1466,Rio Henares y Sierra Morena,2,Parque,0466,Rio Henares y Sierra Morena,4,Juegos Infantiles,1466,Castilla la Mancha y El Escorial,3,Jardin,1466,Coto Alhambra,2,Parque,1466,Coto Valladolid,2,Parque,1465,- Inexistente -,99,NINGUNO,99464,Viniedos y Vinia Alegre,3,Jardin,1464,Vinia Norte,3,Jardin,1463,Priv. del Levante,2,Parque,1463,Priv. Sol Naciente y Sol Naciente,2,Parque,1463,Priv. Girasol y Girasol,2,Parque,1463,Carro del Sol y de la Aurora,3,Jardin,1462,Galicia y Bosque Valdepenias,3,Jardin,1339,Calle 8,2,Parque,1339,Mirador en Calle 8,2,Parque,1339,Calle 8 Coto Santa Luza,4,Juegos Infantiles,1339,Terraza en Coto Santa Luza Calle 8,2,Parque,220,Economos y J. Brahms,2,Parque,1475,Av. Quinta del bosque,3,Jardin,2475,Casa Club av. Quinta del Bosque,3,Jardin,2378,Inexistente,99,Desconocido,99198,Valle del tiber y valle vulga,3,Jardin,1198,Valle del mayo y valle del balsas,3,Jardin,1198,Valle maguey y de las yucas,3,Jardin,1186,Inexistente,99,Desconocido,99178,Inexistente,99,Desconocido,99185,"Inexistente",99,Desconocido,99197,Tulum entre Palenque y Kabah,3,Jardin,1182,Av. Tepeyac y Prados Ixtepete,3,Jardin,1182,Tlalpanj y J. Lopez Portillo,1,Plaza Civica,1182,J. Lopez Portillo y av. Tepeyac,4,Juegos Infantiles,1209,"Inexistente",99,Desconocido,99213,Inexistente,99,Desconocido,99215,Paseo de la Luma entre Cancer y Aurora Boreal,2,Parque,1211,Ballena y Salmon,3,Jardin,1211,Ballena Arrenque y Mariposa,0,,0212,Av. Obsidiana y av. M. champagnat,2,Parque,1212,Av. Champagnat y Charal,2,Parque,1245,Inexistentes,99,NINGUNO,99476,Inexistente,99,Desconocido,99267,,0,Desconocido,0267,,99,NINGUNO,0479,Entre V. Tenochtitlan V. Palenque y V. Cuicuilco,4,Juegos Infantiles,1478,,99,NINGUNO,0477,,99,NINGUNO,99142,Prolongacion Jose Lopez Portillo y Privada Tepeyac,4,Juegos Infantiles,0350,,99,NINGUNO,0217,San Juan Bosco y Abogados,3,Jardin,1229,,99,NINGUNO,0268,,99,NINGUNO,0269,,99,NINGUNO,0270,,99,NINGUNO,0480,Av. Prolongacion Guadalajara y Ajijic,3,Jardin,1240,,0,Desconocido,0486,,99,NINGUNO,0484,Mozart y Tchaikovsky,3,Jardin,1485,,99,NINGUNO,0483,,99,NINGUNO,0482,Palmas y Laureles,1,Plaza Civica,1481,,99,NINGUNO,0252,Paseo de las Aves y Arroyo,2,Parque,1252,Camino a las Misiones y Arroyo,2,Parque,1134,,99,NINGUNO,0214,Circuito La Loma,2,Parque,2301,Paseo de los Virreyes N¡ 555,2,Parque,1301,Por la Barranca,2,Parque,1490,,99,NINGUNO,0491,,99,NINGUNO,0489,,99,NINGUNO,0487,,99,NINGUNO,0488,,99,NINGUNO,0126,Frente al templo (Atrio con bancas),1,Plaza Civica,1492,,99,NINGUNO,99175,Morelos y Vicente Guerrero,1,Plaza Civica,1298,Entre Playa Verde y Playa Bonita,3,Jardin,1289,,99,NINGUNO,0295,Prados de los Lirios y Pradoas Cipres,2,Parque,1493,,99,NINGUNO,0494,,99,NINGUNO,0303,Pirul y Azalea,3,Jardin,1311,,99,NINGUNO,0315,,99,NINGUNO,0495,Paseo de las Aves y Av. Las Canteras,3,Jardin,1495,Mision del Bajio y Paseo de las Aves,3,Jardin,1495,Terraza y Jardin con juegos infantiles en Circuito del Atalaya,4,Juegos Infantiles,1495,Ciurcuito del Atalaya,2,Parque,1495,Av. Canteras,3,Jardin,1496,Circuito Parques del Centinela,3,Jardin,1496,Circuito Parques del Centinela,4,Juegos Infantiles,1497,En cada uno de los Cotos,3,Jardin,1497,Paseo de la Castilla frente al coto El Escorial,2,Parque,1363,Av. Jesus entre Marina Vallarta y Mazatlan,4,Juegos Infantiles,017,Calle Griegos y Persas del Centro Escolar,2,Parque,1430,Retornos de: Los Alamos Santa Fe Las Cruces Artesia y Portales.,3,Jardin,1432,San Agustin Caloca,2,Parque,1119,5 de Mayo y Lazaro Cardenas,1,Plaza Civica,1433,Campanario y Rodeo,3,Jardin,1433,Rodeo y Coronado,4,Juegos Infantiles,1433,Coronado y Rodeo,3,Jardin,1433,Centro social en Rodeo y Coronado,0,Desconocido,1434,,99,NINGUNO,0436,Circuito de las Flores Sur y Circuito Mimosas,3,Jardin,1436,Circuito de las Flores Poniente y Circuito de las Flores Poniente (ambas calles se llaman igual),3,Jardin,1271,Antonio Cruzado y Lazaro Cardenas,4,Juegos Infantiles,1271,Antonio Cruzado y Lazaro Cardenas,3,Jardin,1271,Fray Francisco Paldo y San Mateo,3,Jardin,1271,Fray Miguel Pieras (Terraza/Centro Social),1,Plaza Civica,1167,Conocido Balneario Huaxtla,2,Parque,256,Entre Condor Palomas y Jilguero,3,Jardin,1234,Cempasuchil y Violeta,3,Jardin,1437,San Roberto y San Roberto 110,4,Juegos Infantiles,1437,Centro Social en San Mateo y San Mateo 210,0,Desconocido,1202,Av. Inglaterra y Av. de los Escritores,3,Jardin,1202,Novelistas y Av. Patria,3,Jardin,1280,Tomas Fuller J.L. Stevenson y Naciones Unidas,2,Parque,1280,Tomas Fuller J.L. Stevenson y Naciones Unidas,4,Juegos Infantiles,1187,Shakespeare e Inglaterra,2,Parque,1187,R. Kipling y Honorato de Balzac,2,Parque,1319,Playa de Santiago entre Volcan Tancitaro y Av. Paseo de los Volcanes,2,Parque,1179,Novelistas y Escritores,3,Jardin,1335,Rinconada de la Orquidea y Girasol,2,Parque,1335,Manuel Acunia y Rinconada Amapola (Parque Hundido),2,Parque,1383,Cd. Queretaro Constituyentes Jal. y Teatro de la Republica,3,Jardin,1383,Cd. Queretaro Ejercito Constitucioanlista y Constituyentes,3,Jardin,1205,Inglaterra y Piscis,3,Jardin,1205,Libra y Acuario,3,Jardin,1308,Glorieta de Av. Miguel Angel,3,Jardin,1440,Alcatraz y Tulipan,2,Parque,1440,Paseo del Almendro y Granado (Jardin y Centro Social),3,Jardin,1440,Frambuesa y Granado,4,Juegos Infantiles,1440,Tuna y Tuna 84,3,Jardin,1440,Pera y Naranja,3,Jardin,1440,Toronja y Toronja 113,2,Parque,1442,Circuito Hacienda Palomas y Retorno Hacienda de la Noria,4,Juegos Infantiles,1442,Circuito Haciena Las Palomas,2,Parque,1385,Andador Ma. Cristina Penia,2,Parque,118,Paseo Arboledas y Ahuehuetes,3,Jardin,118,Paseo Arboledas y Casuarinas,3,Jardin,118,Paseo Arboledas entre Av. Tesistan y Santa Margarita,4,Juegos Infantiles,118,Paseo Arboledas y Pinabetes,4,Juegos Infantiles,1104,(Parque Hundido ) en Labaro Patrio,2,Parque,1232,G. Leroux y Rosario Castellanos,2,Parque,1232,Ariosto y Cavafis,3,Jardin,1336,Mabuse y Rosario Castellanos,2,Parque,1276,Volcan y Nieve,3,Jardin,1302,Rancho Contento (Asadores Parques Casa club Sombrillas etc.),2,Parque,2360,Juan Manuel Ruvalcaba entre Morelos y Pedro Moreno,1,Plaza Civica,1446,Francisco Zarco y Nicolas Bravo,4,Juegos Infantiles,182,Av. del Tesoro y Priv. Rio Apozolco,2,Parque,111,Sierra de Bolanios y Sierra de Quila,3,Jardin,111,Sierra de Autlan y Sierra Comanja,3,Jardin,111,Sierra Pihuamo y Sierra de Mazamitla,3,Jardin,1291,Paseo de los Abedules Gardenias y Guamuchil,4,Juegos Infantiles,1467,Circuito Real de Tesistan 245,2,Parque,1467,Camellon del Circuito Real de Tesistan,3,Jardin,1467,Circuito Real de Tesistan 161,4,Juegos Infantiles,1467,Terraza en Circuito Real de Tesistan 161,3,Jardin,1468,Coto Sevilla,3,Jardin,1468,Jalisco,4,Juegos Infantiles,1468,Terraza en Jalisco y Antiguo Camino a Tesistan,2,Parque,1470,Ingreso a la colonia,2,Parque,1470,Casa Blanca 65 (Parque Municipal),2,Parque,1470,Terraza en Casa Blanca 65,3,Jardin,1470,Parque con terraza y juegos infantiles en Av Casa Blanca,2,Parque,1470,Todas las esquinas de Av. Casablanca,3,Jardin,1469,- Inexistente -,99,NINGUNO,99471,Cibeles y Priv. de Hera,2,Parque,1471,Rio Oise y Circuito de los 4 Rios,2,Parque,1471,Circuito del Triton,1,Plaza Civica,1471,Carretera a Tesistan,3,Jardin,1394,Emiliano Zapata y Agustin Yaniez,1,Plaza Civica,1394,Emiliano Zapata y Agustin Yaniez,4,Juegos Infantiles,1394,Balneario Chato Rojas al fondo de la calle Tabachines,0,Desconocido,2150,Eje Central y Cerrada Banderilleros,1,Plaza Civica,1150,Eje central y Cerrada de la Calesa,3,Jardin,1150,Casa club en Cda. Matador y Curro Rivera,0,Desconocido,2150,Cda del Tercio y Cda del Matador,3,Jardin,169,Aranzazu y Olimpica,3,Jardin,169,Aranzazu y Olimpica,4,Juegos Infantiles,1143,- Inexistente -,99,NINGUNO,99159,Calle Leona Vicario,4,Juegos Infantiles,1163,- Inexistente -,99,NINGUNO,99153,- Inexistente -,99,NINGUNO,9964,- Inexistente -,99,NINGUNO,99133,Parres Arias,4,Juegos Infantiles,1148,Paseo de los ganaderos y Ganaderos Sur,3,Jardin,1148,Ganaderos Poniente y Norte,3,Jardin,1148,Ganaderos Poniente y Sur,3,Jardin,1124,Velazquez y Durero,2,Parque,178,Jardin de Av. Palmas y Vallarta,4,Juegos Infantiles,178,Glorieta de Calzada Central y Norte,1,Plaza Civica,178,Glorieta de Calzada Pirules y Vallarta,3,Jardin,168,-Inexistente-,99,NINGUNO,9970,12 de diciembre y Juan Diego (Glorieta),3,Jardin,172,- Inexistente -,99,NINGUNO,99472,Todos los cotos,4,Juegos Infantiles,1472,Todos los cotos,3,Jardin,1472,Maracuya y Canelo,1,Plaza Civica,1473,- Inexistente -,99,NINGUNO,99171,- Inexistente -,99,NINGUNO,9931,- Inexistente -,99,NINGUNO,9975,Ninio obrero y Parque Juan Diego,3,Jardin,175,Santa Teresa de Jesus,2,Parque,2318,Severo Diaz y Jose Ma. Arreola,3,Jardin,1266,Prolongacion Colli y Arrayan,1,Plaza Civica,196,Olivos y grana,3,Jardin,196,Guerrero y Grana,3,Jardin,196,Guerrero y tepito,4,Juegos Infantiles,1396,Inexistente,99,Desconocido,99275,Inexistente,99,NINGUNO,99474,Inexistente,99,Desconocido,99497,Paseo de las Castilla frente al coto El Escorial,4,Juegos Infantiles,1353,,99,NINGUNO,0108,Constituyentes y Gral. Juan Dominguez,1,Plaza Civica,1346,Mirador Dr. Atl Carretera a Saltillo,3,Jardin,1346,"Balneario ""El Amigo"" Carretera a San Esteban",3,Jardin,2343,Rodeo en Calle Benito Juarez s/n,3,Jardin,2310,Laplece y Alioth entre Carnero y Sagitario,2,Parque,1324,Esmeralda y Brillante,2,Parque,1324,Ascerina Gama y Ambar,2,Parque,1251,Mision Atequiza y Zapotlanejo (Parque y juegos infantiles),2,Parque,1498,Paseo de las Quintas Poniente. (Parque y Juegos infantiles),2,Parque,1498,Valle de las Quintas Oriente y Parque de las Quintas,3,Jardin,1498,Valle de las Quintas Oriente y Parque de las Quintas.,4,Juegos Infantiles,1498,Parques de las Quintas (Coto Real Quintas del Valle),4,Juegos Infantiles,1499,Escuadron 2001 (Terraza Jardin),3,Jardin,1499,Escuadron 201,4,Juegos Infantiles,1499,Valle de Mazamitla (Terraza Jardin),3,Jardin,1499,Valle de Mazamitla (Terraza jardin),3,Jardin,1500,Valle de Mexico y privada Mandarinos Poniente (Terraza),3,Jardin,1501,Valle de San Pablo y Valle de San Francisco (Parque y Terraza),2,Parque,1502,Calle Rinconada (Terraza),2,Parque,1502,Calle Rinconada,4,Juegos Infantiles,1503,Calle Tulipanes y Gardenia,3,Jardin,1503,Gardenia y Alcatraz,4,Juegos Infantiles,1503,Gardenia y Alcatraz,2,Parque,1503,Azaleas y Gladiola,3,Jardin,1504,Calle Tuxpan (Terraza),3,Jardin,17,Guadalupe Gallo Frente al 22 Parque del Sindicato de Trabajadores de la Industria Embotelladora,2,Parque,2349,hidalgo y Francisco I. Madero entre Privada hidalgo,1,Plaza Civica,1342,circuito San Bernardo,4,Juegos Infantiles,2342,Alberca en circuito San Bernardo,0,Desconocido,2342,Terraza en circuito San Bernardo,0,Desconocido,2341,Alberca en La Colina Coto N¡ 5395,0,Desconocido,2341,Terraza en La Colina Coto N¡ 5395,0,Desconocido,2341,Terraza en Compina Coto N¡ 5395,0,Desconocido,2341,"Terraza ""Pradera"" Coto N¡ 5395",0,Desconocido,2341,Terraza en Paseos la Loma coto N¡ 5395,0,Desconocido,2341,Terraza  en La alameda Coto N¡ 5395,0,Desconocido,2309,,99,NINGUNO,99314,,99,NINGUNO,99287,,99,NINGUNO,99506,Terraza en privada Compositores,0,Desconocido,2506,Privada compositores,4,Juegos Infantiles,2505,Calle Puerta la Plata,3,Jardin,2329,Inexistente,99,NINGUNO,99331,Inexistente,99,NINGUNO,99357,Coban y Playa de Chamela,2,Parque,1357,Coban y Playa de Chamela,4,Juegos Infantiles,1420,Calle Ejido del Colli en las faldas del cerro,2,Parque,1420,Calle Ejido del Colli en las faldas del cerro,4,Juegos Infantiles,1160,Luis Gonzaga Osollo esq. Rincon de los Cipreses,3,Jardin,1374,- Inexistente -,99,NINGUNO,99129,- Inexistente -,99,NINGUNO,99507,,0,,0508,Calle de la Bondad,4,Juegos Infantiles,1508,Calle de la alegria y calle de la fraternidad,3,Jardin,1508,Fraternidad y Amistad,4,Juegos Infantiles,1508,Terraza publica en Fraternidad y Amistad,2,Parque,1509,Villa Caracol y Villa Perla,4,Juegos Infantiles,1509,Villa del Sol y Villa Coral,2,Parque,1479,Coto La Arboleda,3,Jardin,2479,Paseo de la maternidad,2,Parque,1510,Inexistente,99,NINGUNO,99356,Plaza Civica,1,Plaza Civica,115,Balneario Los Alamitos en Encino 1010,2,Parque,2511,Inexistente,99,NINGUNO,99512,Bosques de Aguascalientes y Bosques del Centinela,3,Jardin,1512,Bosques de Jalisco y Bosques del Centinela,4,Juegos Infantiles,1512,Terraza Publica y Centro Social en Circuito Bosques del Centinela y Av. Bosques del Centinela,2,Parque,1512,Bosques de Nayarit,3,Jardin,130,,99,NINGUNO,9965,Plaza de las Americas en Av. Hidalgo,1,Plaza Civica,165,Av. hidalgo y Allende,4,Juegos Infantiles,1332,,99,NINGUNO,99516,Rinconada de los Pinos y Rinconada de los Laureles Poniente (Parque terraza y juegos infantiles),2,Parque,1333,Casa Club en Rinconada La Joya,2,Parque,2516,Rinconada de los mandarinos y Pinos,3,Jardin,1516,Rinconada de los mandarinos y cedros,3,Jardin,1516,Rinconada de las Limas y Rinconada de los duraznos,3,Jardin,1327,Paseo del Iris,4,Juegos Infantiles,2389,,99,NINGUNO,99404,Playa Chamela N¡ 1315,2,Parque,1419,Circuito Vista del Sol,4,Juegos Infantiles,1421,Tulum y Palenque,2,Parque,1515,Privada de los Sauces y Rinconada de los Sauces.,4,Juegos Infantiles,1515,Terraza en Privada de los Sauces y Rinconada de los Sauces,3,Jardin,1514,Sendero de los Laureles Sur,4,Juegos Infantiles,1514,Senderos de las Jacarandas Sur,4,Juegos Infantiles,13,Privada Los Abetos,3,Jardin,23,Privada Los Abetos,4,Juegos Infantiles,23,Terraza en Privada los Abetos,0,Desconocido,2107,,99,NINGUNO,99517,,99,NINGUNO,99340,,99,NINGUNO,99372,Av. Tepeyac y Av. de los Leones,4,Juegos Infantiles,1392,,99,NINGUNO,99285,Av. del Pinar y Tajin,3,Jardin,1285,Cuicuilco y Aztlan,2,Parque,1285,Teotihuacan y Tzintzunzan,2,Parque,1285,Sierra de Tapalpa y Av. del Pinar,4,Juegos Infantiles,1285,Sierra de Tapalpa y Av. del Pinar,2,Parque,1285,Foro en Av. del Pinar frente al 508 esq. Tajin,2,Parque,1519,Av. Bosque de los Encinos y privada de la Paz,4,Juegos Infantiles,1519,Av. Bosque de los Encinos y Privada de la Paz,3,Jardin,1519,Privada de la Concordia y Privada de la Paz,3,Jardin,1519,Circuito de la Calma Poniente,3,Jardin,1520,Parque en Lima y Mandarina,4,Juegos Infantiles,1520,Limon y San Gonzalo,3,Jardin,1520,Limon y San Gonzalo,4,Juegos Infantiles,1520,Parque en Fresno y Eucalipto,4,Juegos Infantiles,1518,Gaviota y Paloma,2,Parque,1518,Centro Social en prolongacion Venustiano Carranza y Paloma,0,Desconocido,1521,Casa Club con juegos y Terraza en Calle Siena (Coto Milan),4,Juegos Infantiles,2521,Casa club con terraza en Florencia y San Remo (Coto Turin),4,Juegos Infantiles,2522,Con Terraza y Alberca en Coto Solares Antara,3,Jardin,2522,Con Terraza y Alberca en Coto Saveira,3,Jardin,2522,Con Terraza y Alberca en Coto Santa Rosa,3,Jardin,2522,Con Terraza y Alberca en Coto Uno,3,Jardin,2522,Con Terraza y Alberca en Coto Dos,3,Jardin,2522,Con Terraza y Alberca en Coto Tres,3,Jardin,2522,Con Terraza y Alberca en Coto Cuatro,3,Jardin,2522,Con Terraza y Alberca en Coto Cinco,3,Jardin,2522,Con Terraza y Alberca en Coto Seis,3,Jardin,2523,,99,NINGUNO,99524,Santa Catalina Poniente,3,Jardin,1524,Santa Catalina norte,3,Jardin,1524,Santa Catalina Norte,4,Juegos Infantiles,1524,Santa Catalina Poniente,2,Parque,1524,Santa Catalina Poniente,4,Juegos Infantiles,1218,Inexistente,99,NINGUNO,9945,Inexistente,99,NINGUNO,9943,Inexistente,99,NINGUNO,9927,Inexistente,99,NINGUNO,99526,Rio Arauca y Rio Orinoco Ote.,3,Jardin,1526,Rio Arauca y Rio Meta Oriente,3,Jardin,1525,Ganaderos de Jalisco y Limousin,3,Jardin,1525,Parque con juegos infantiles en Limousin,2,Parque,1525,Parque con Terraza en Angus N¡ 355,2,Parque,1525,Parque con juegos infantiles y terraza en Brahman,2,Parque,1513,Carlos Villasenior y Andador 17 Oriente (en estado de abandono),3,Jardin,1513,Sebastian Allende y 17 Central  (en estado de abandono),3,Jardin,1513,Francisco Mujica y Andador 15  (en estado de abandono),3,Jardin,1513,Enrique Diaz de Leon entre Andador 15 y Andador 11  (en estado de abandono),3,Jardin,1513,Andador 1 y Enrique Diaz de Leon  (en estado de abandono),3,Jardin,1149,Fermin Riestra y Manuel Villalongin,1,Plaza Civica,140,Inexistente,99,NINGUNO,99527,Inexistente,99,NINGUNO,99108,Av. Constituyentes y Manuel Aguirre,3,Jardin,1108,Obreros de Cananea y G. Meliton Albanies,2,Parque,1108,obreros de Cananea en parque Publica,4,Juegos Infantiles,1528,,3,Jardin,1117,,99,NINGUNO,99388,Plan de Guadalupe y And. Cantera Gris,2,Parque,1530,Inexistente,99,NINGUNO,99531,,0,Desconocido,0531,Inexistente,99,NINGUNO,99531,,0,Desconocido,0277,Inexistencia,99,NINGUNO,99529,Inexistencia,99,NINGUNO,99532,Calle San Rafael,4,Juegos Infantiles,1533,,99,NINGUNO,99244,,0,Desconocido,025,Zaragoza y Emiliano Zapata,1,Plaza Civica,1297,,0,,0297,En el bosque,0,Balneario las tinajitas,0534,Av. de las Flores y Canal,0,Jardin,0534,Paseo de la Relaeza y Monarquia Britanica,0,Terraza jardin,0534,Monarquia Sueca,0,Terraza jardin,0534,Real de Bosque y Federalistas,0,Terraza jardin,0534,Monarquia Espaniola,0,Terraza jardin,0535,Rinconada del Camichin y Caoba,0,Terraza jardin,0535,Vino rosado y Barranca,0,Terraza-jardin-juegos,2535,Vino jerez y Alambique,0,Terraza-jardin-juegos,2535,Primavera,0,Terraza-jardin-juegos,2537,Dentro del Coto,4,Juegos Infantiles,2537,Dentro del Coto,0,Alberca y Terraza,2539,Senda los Adelfos,0,Parque y juegos,1539,Av. del Bosque,2,Parque,1540,Valle de Zapopan y Valle d los Molino,0,Juegos Infantiles y Jardin,1540,Valentin Vidrio Aece y Valle del Sol,2,Parque,1540,Valle de los Molinos,0,Jardin y Juegos Infantiles,1541,Astoria coto 1,0,Jardin y Juegos,1541,Florencia y Tizano,0,Jardin y Juegos,1541,Rafaelo y Napoles,0,Jardin y Juegos,1543,De las Limas y Magnolia,0,Jardin,1544,San Felipe,0,Jardin y Juegos Infantiles,1546,Las Palmas Sur,4,Juegos Infantiles,1545,Prolongacion San Miguel y Granada,0,Jarin y Juegos Infaniles,2545,Prolongacion San Miguel y Granada,0,Terraza y Juegos Infantiles,2547,Av. Lago Real,4,Juegos Infantiles,1547,Juegos Infantiles,0,Av. Lago Real,1
