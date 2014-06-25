@@ -13,15 +13,16 @@ jalisco.fuerte <- fortify(jalisco)
 head(jalisco.fuerte)
 
 head(delitos)
+delitos.1 <- filter( delitos, x >0)
 
 
 
 ggplot(data = jalisco.fuerte, aes(long, lat)) + 
   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
   coord_fixed(ratio = 5/3.5)+  labs(title = "AGEBS en Jalisco", x = "Longitud", y = "Latitud", 
-       colour = "Residuales", size = "", alpha = "")  + 
-   geom_point(data = delitos, aes(x = long, y = lat, colour = fecha),
-              size = 3.5, alpha = 0.9) +   scale_colour_brewer(palette="YlOrRd") 
+       colour = "Tipo de delito", size = "", alpha = "")  + 
+   geom_point(data = delitos.1, aes(x = long, y = lat, colour = tipo),
+              size = 1.5, alpha = 0.9) +   scale_colour_brewer(palette="YlOrRd") 
 
 
 
