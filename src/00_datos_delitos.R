@@ -88,7 +88,9 @@ names(delitos.colonia) <- c('Colonia','Tipo de delito','n')
 
 xtable(head(arrange(delitos.colonia, -n), 20)  , caption='Las 20 colonias más peligrosas')
 
+za
 
+openmap()
 
 head(delitos.colonia)
 
