@@ -16,23 +16,18 @@ mun.jalisco.fuerte <- fortify(mun.jalisco)
 zapopan.fuerte <- fortify(zapopan) 
 head(mun.jalisco.fuerte)
 
-eje.vial <- readShapeSpatial("data/inegi-jalisco/jal_eje_vial.shp")
-
-
 delitos.1 <- filter( delitos, x >0)
 delitos.detenidos.1 <- filter(delitos.detenidos, x>0 )
 
 delitos.detenidos.1$tipo <- gsub(delitos.detenidos.1$tipo, pattern = 'FALTAS ADMINISTRATIVAS', 
      replacement = 'FALTA ADMINISTRATIVA')
 
-ggplot(data = jalisco.fuerte, aes(long, lat)) + 
-  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
-  coord_fixed(ratio = 5/3.5)+  labs(title = "AGEBS en Jalisco", x = "Longitud", y = "Latitud", 
-       colour = "Tipo de delito", size = "", alpha = "")  + 
-   geom_point(data = delitos.1, aes(x = long, y = lat, colour = tipo),
-              size = 1.5, alpha = 0.9) 
-
-
+# ggplot(data = jalisco.fuerte, aes(long, lat)) + 
+#   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+#   coord_fixed(ratio = 5/3.5)+  labs(title = "AGEBS en Jalisco", x = "Longitud", y = "Latitud", 
+#        colour = "Tipo de delito", size = "", alpha = "")  + 
+#    geom_point(data = delitos.1, aes(x = long, y = lat, colour = tipo),
+#               size = 1.5, alpha = 0.9) 
 
 ggplot(data = mun.jalisco.fuerte, aes(long, lat)) + 
   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
@@ -74,7 +69,26 @@ tabla.2$delitos_detenidos.Var1 <- NULL
 names(tabla.2) <- c('Tipo de delito', '% de cometidos', '% de detenidos')
 rownames(tabla.2) <- NULL
 
-print(xtable(tabla.2, caption = 'Porcentaje de delitos cometidos y detenidos', digits = 0),include.rownames=FALSE )
+print(xtable(tabla.2, caption = 'Porcentaje de delitos cometidos y detenidos', 
+             digits = 0),include.rownames=FALSE )
 
 
+
+#LIMPIAR LAS FECHAS 
+head(delitos.1)
+
+# tabla.3 <- data.frame( delitos.por.colonia= head(sort(table(delitos.1$colonia), decreasing = T), 20) )
+# names(tabla.3) <- 'Número de delitos por colonia'
+# 
+# print(xtable(tabla.3, caption = 'Las 20 colonias con más delitos', 
+#              digits = 0),include.rownames=T)
+
+delitos.colonia <- as.data.frame(table(delitos.1$colonia , delitos.1$tipo))
+names(delitos.colonia) <- c('Colonia','Tipo de delito','n')
+
+xtable(head(arrange(delitos.colonia, -n), 20)  , caption='Las 20 colonias más peligrosas')
+
+
+
+head(delitos.colonia)
 
