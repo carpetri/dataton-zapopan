@@ -73,10 +73,6 @@ print(xtable(tabla.2, caption = 'Porcentaje de delitos cometidos y detenidos',
              digits = 0),include.rownames=FALSE )
 
 
-
-#LIMPIAR LAS FECHAS 
-head(delitos.1)
-
 # tabla.3 <- data.frame( delitos.por.colonia= head(sort(table(delitos.1$colonia), decreasing = T), 20) )
 # names(tabla.3) <- 'Número de delitos por colonia'
 # 
@@ -88,9 +84,63 @@ names(delitos.colonia) <- c('Colonia','Tipo de delito','n')
 
 xtable(head(arrange(delitos.colonia, -n), 20)  , caption='Las 20 colonias más peligrosas')
 
-za
 
-openmap()
-
+#MAPAS
 head(delitos.colonia)
 
+
+
+manz.zapopan <- readShapeSpatial("data/shp_zapopan/zapopan_manzanas.shp")
+
+manz.zapopan.fuerte <- fortify(manz.zapopan)
+zapopan.fuerte <- fortify(zapopan) 
+head(mun.jalisco.fuerte)
+
+
+coord.colonias <- delitos.1 %.% group_by(colonia,tipo) %.% summarize( long= mean(long), lat=mean(lat),
+                                                                 n=n())
+
+coord.colonias
+
+ggplot(data = zapopan.fuerte, aes(long, lat)) + 
+  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+  
+  coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
+                                   colour = "Tipo de delito", size = "Número de delitos", alpha = "")  + 
+  geom_point(data = coord.colonias  , aes(x = long, y = lat, size = n, colour=tipo), alpha = 1) 
+ggsave(filename = 'graphs/num_delitos.pdf', width = 9, height = 6 )
+
+
+
+ggplot(data = manz.zapopan.fuerte, aes(long, lat)) + 
+  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+  coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
+                                   colour = "Tipo de delito", size = "Número de delitos", alpha = "")  + 
+  geom_point(data = coord.colonias  , aes(x = long, y = lat, size = n, colour=tipo), alpha = 1) 
+ggsave(filename = 'graphs/num_delitos_manz.pdf', width = 9, height = 6 )
+
+#MESES y fechas
+delitos.1$fecha.1  <- as.Date(delitos.1$fecha , format="%d/%m/%Y")
+
+delitos.1$mes <-(month(delitos.1$fecha.1))
+delitos.1$fecha
+#delitos.1 <- tbl_df(delitos.1)
+
+
+delitos.mes <-  delitos.1 %.% group_by(colonia,mes) %.% summarise( long= mean(long), lat=mean(lat),n=n())
+
+x <- delitos.1 %.% group_by(mes) %.% summarise( long= mean(long), lat=mean(lat),n=n() ) %.%
+  arrange(as.numeric(mes))
+x
+print(xtable(x[,c('mes','n')],caption='Número de delitos por mes en Zapopan'), include.rownames=FALSE )
+
+
+ggplot(data = zapopan.fuerte, aes(long, lat)) + 
+  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+  
+  coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
+                                   colour = "Mes del delito", size = "Número de delitos", alpha = "")  + 
+  geom_point(data =delitos.mes  , aes(x = long, y = lat, size = n, colour=factor(mes)), alpha = .8) 
+ggsave(filename = 'graphs/num_delitos_mes.pdf', width = 9, height = 6 )
+
+head(TemperaturasEneMar2014)
