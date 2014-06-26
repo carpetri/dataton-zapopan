@@ -37,7 +37,7 @@ ggplot(data = mun.jalisco.fuerte, aes(long, lat)) +
                                     colour = "Tipo de delito", size = "", alpha = "")  + 
   geom_point(data = delitos.1, aes(x = long, y = lat, colour = tipo),
              size = 1.5, alpha = 0.9) +   scale_colour_brewer(palette="YlOrRd") 
-ggsave(filename = 'munucipios_y_delitos_jalisco.pdf', width = 9, height = 3 )
+ggsave(filename = 'graphs/munucipios_y_delitos_jalisco.pdf', width = 9, height = 6 )
 
 
 

@@ -1,0 +1,74 @@
+\documentclass[10pt,letterpaper,spanish]{report}
+\usepackage{setspace}
+\setstretch{1.15}
+
+\usepackage{bbm}
+\usepackage{geometry} 
+\geometry{letterpaper}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+
+\usepackage[utf8]{inputenc}
+%\pagestyle{myheadings}
+\usepackage{verbatim}  
+\usepackage{enumerate}
+
+%\usepackage{subfig}
+\usepackage{fancyhdr} 
+\pagestyle{fancy} 
+%\usepackage{multicol}
+%\usepackage{rotating}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{lscape}
+\usepackage{marvosym} % Allows the use of symbols
+\usepackage{float}
+\usepackage{cite}
+\usepackage{bibentry}
+\usepackage{appendix}
+\bibliographystyle{plain}
+\usepackage{hyperref}
+\usepackage[labelsep=period]{caption}
+%\usepackage{caption}
+%\usepackage[framed,numbered]{mcode}
+
+\addto\captionsspanish{\renewcommand{\figurename}{Imagen}}
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
+\addto\captionsspanish{\renewcommand\listfigurename{Índice de imágenes}}
+\addto\captionsspanish{\renewcommand\listtablename{Índice de tablas}}
+%\addto\captionsspanish{\renewcommand{\captionfont}{\tt}}
+
+\renewcommand{\headrulewidth}{.1pt} 
+\renewcommand{\footrulewidth}{.1pt}
+
+\fancyhead[L]{\scshape Christopher Lazarus García}
+\fancyhead[C]{PETRUS}
+\fancyhead[R]{\scshape Carlos Petricioli Araiza}
+%\fancyfoot[L]{Izq}
+%\fancyfoot[R]{Dere}
+
+%%%% BASH
+\usepackage{xcolor}
+\usepackage{listings}
+\lstset{
+  basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+
+\begin{document}
+
+\input{abstract.tex}
+
+\input{cap1.tex}
+
+
+% \input{cap3.tex}
+% \input{cap4.tex}
+
+\appendix
+% \input{anexo1.tex}
+
+%\bibliography{biblio.bib}
+
+\end{document}
