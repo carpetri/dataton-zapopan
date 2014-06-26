@@ -135,6 +135,8 @@ x
 print(xtable(x[,c('mes','n')],caption='Número de delitos por mes en Zapopan'), include.rownames=FALSE )
 
 
+library(RColorBrewer)
+
 ggplot(data = zapopan.fuerte, aes(long, lat)) + 
   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
   

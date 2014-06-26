@@ -96,6 +96,6 @@ ggsave(filename = 'graphs/temperatura.pdf', width = 9, height = 6 )
 
 
 
-
-
+#cache('zapopan.fuerte')
+#cache('delitos.4')
 
