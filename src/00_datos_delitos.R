@@ -97,7 +97,7 @@ zapopan.fuerte <- fortify(zapopan)
 head(mun.jalisco.fuerte)
 
 
-coord.colonias <- delitos.1 %.% group_by(colonia,tipo) %.% summarize( long= mean(long), lat=mean(lat),
+coord.colonias <- delitos.1 %.% group_by(colonia,tipo) %.% summarise( long= mean(long), lat=mean(lat),
                                                                  n=n())
 
 coord.colonias
