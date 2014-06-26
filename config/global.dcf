@@ -4,7 +4,7 @@ recursive_loading: off
 munging: on
 logging: off
 load_libraries: on
-libraries: reshape2, plyr,dplyr, ggplot2, stringr, lubridate, OpenStreetMap, RColorBrewer , classInt, maptools,  maps, SpatialEpi ,fields
+libraries: reshape2, plyr,dplyr, ggplot2, stringr, lubridate, OpenStreetMap, RColorBrewer , classInt, maptools,  maps, SpatialEpi ,fields, xtable
 as_factors: on
 as_factors: off
 data_tables: off
