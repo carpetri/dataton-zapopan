@@ -161,15 +161,5 @@ nrow(delitos.1)
 nrow(delitos.2)
 
 
-faltan <- unique( filter(delitos.2, is.na(TMedia))$fecha.1 )
-
-remplazar <- as.Date(faltan) - 1
-
-remp <- data.frame(faltan, remplazar)
-names(remp) <- c('fecha.1','fecha.2')
-
-
-x <- filter(delitos.2, is.na(TMedia))$
-delitos.3 <- left_join(delitos.2, remp)
 
 
