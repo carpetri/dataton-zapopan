@@ -144,3 +144,32 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
 ggsave(filename = 'graphs/num_delitos_mes.pdf', width = 9, height = 6 )
 
 head(TemperaturasEneMar2014)
+
+temps <- TemperaturasEneMar2014
+temps$fecha  <- gsub(temps$Fecha, pattern = ' 12:00:00 AM', replacement = '')
+
+temps$fecha.1 <- as.Date(temps$fecha, format='%m/%d/%Y')
+
+temps.1 <- temps[,c('TMedia','fecha.1')]
+
+temps.2 <- temps.1 %.% group_by(fecha.1) %.% summarise(TMedia=mean(TMedia) )
+
+filter(temps.2,fecha.1=='2014-03-18')
+
+delitos.2 <- left_join(delitos.1, temps.2)
+nrow(delitos.1)
+nrow(delitos.2)
+
+
+faltan <- unique( filter(delitos.2, is.na(TMedia))$fecha.1 )
+
+remplazar <- as.Date(faltan) - 1
+
+remp <- data.frame(faltan, remplazar)
+names(remp) <- c('fecha.1','fecha.2')
+
+
+x <- filter(delitos.2, is.na(TMedia))$
+delitos.3 <- left_join(delitos.2, remp)
+
+
