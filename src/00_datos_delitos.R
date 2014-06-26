@@ -16,6 +16,8 @@ mun.jalisco.fuerte <- fortify(mun.jalisco)
 zapopan.fuerte <- fortify(zapopan) 
 head(mun.jalisco.fuerte)
 
+eje.vial <- readShapeSpatial("data/inegi-jalisco/jal_eje_vial.shp")
+
 
 delitos.1 <- filter( delitos, x >0)
 delitos.detenidos.1 <- filter(delitos.detenidos, x>0 )
