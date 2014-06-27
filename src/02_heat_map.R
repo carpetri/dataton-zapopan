@@ -29,7 +29,7 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
                                    colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
   geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
-  scale_colour_brewer(palette="RdBu") #+geom_point(data =delitos.4  , aes(x = long, y = lat ), alpha = .1, size=3) 
+    scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  #+geom_point(data =delitos.4  , aes(x = long, y = lat ), alpha = .1, size=3) 
 
 ggsave(filename = 'graphs/heat.pdf', width = 9, height = 6 )
 
@@ -43,7 +43,7 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
                                    colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
 geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
-  scale_colour_brewer(palette="RdBu") +
+    scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
 geom_point(data =coord.colonias  , aes(x = long, y = lat,size=n ), alpha = .7, color='black') 
 ggsave(filename = 'graphs/heat_y_delitos.pdf', width = 9, height = 6 )
 
@@ -73,7 +73,7 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
                                    colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
   geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
-  scale_colour_brewer(palette="RdBu") +
+    scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
   geom_point(data =coord.colonias  , aes(x = long, y = lat,size=n ), alpha = .7, color='black') 
 ggsave(filename = 'graphs/heat_y_delitos2.pdf', width = 9, height = 6 )
 
@@ -137,7 +137,7 @@ nrow(x)
 #                                    colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
 #   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
 #   geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
-#   scale_colour_brewer(palette="RdBu") +
+#     scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
 #   geom_point(data =coord.colonias  , aes(x = long, y = lat,size=n ), alpha = .7, color='black') 
 #  
 
