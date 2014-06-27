@@ -39,18 +39,25 @@ x <- rbind(coord.2,coordenas.por.colonia)
 
 
 
+# ggplot(data = zapopan.fuerte, aes(long, lat)) + 
+#   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+#   
+#   coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
+#                                    colour = "Mes del delito", size = "Número de delitos", alpha = "")  + 
+#   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
+#   #scale_colour_brewer(palette="RdBu") + 
+#   scale_color_manual(values=rev(brewer.pal(5,"RdBu") )) +
+#   geom_point(data =x , aes(x = long, y = lat, size = n), alpha = .8) 
+# + facet_wrap(~tipo)
+# 
+
 ggplot(data = zapopan.fuerte, aes(long, lat)) + 
-  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
-  
   coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
-                                   colour = "Mes del delito", size = "Número de delitos", alpha = "")  + 
+                                   colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
-  #scale_colour_brewer(palette="RdBu") + 
-  scale_color_manual(values=rev(brewer.pal(5,"RdBu") )) +
-  geom_point(data =x , aes(x = long, y = lat, size = n), alpha = .8) 
-+ facet_wrap(~tipo)
-
-
+  geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
+  #scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
+  geom_point(data =coord.colonias  , aes(x = long, y = lat,size=n ), alpha = .7, color='black') 
 
 
 
