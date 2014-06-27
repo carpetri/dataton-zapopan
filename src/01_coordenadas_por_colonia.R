@@ -116,13 +116,20 @@ ggsave(filename = 'graphs/dias.pdf', width = 9, height = 6 )
 
 ls()
 head(Colonias)
-x <- toupper(Colonias$NomColonia)
-y <- toupper(delitos.4)
 
+dat <- as.data.frame(delitos.4[,c('colonia','long','lat')])
+dat$colonia <- toupper(dat$colonia)
+x <- Colonias[,c('NomColonia','IdColonia' ) ]
+names(x) <- c('colonia','IdColonia') 
+x$colonia  <- toupper(x$colonia)
 
+nrow(filter(left_join(dat,x), is.na(IdColonia)))
 
-unique(x)
-unique(y)
+write.csv(x, 'x.csv')
 #cache('zapopan.fuerte')
 #cache('delitos.4')
+
+table(Colonias$ModuloPoli)
+filter(Colonias, PlumaIngresos=='VERDADERO')
+
 
