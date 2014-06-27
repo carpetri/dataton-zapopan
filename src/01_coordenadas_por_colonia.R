@@ -114,9 +114,15 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
 ggsave(filename = 'graphs/dias.pdf', width = 9, height = 6 )
 
 
+ls()
+head(Colonias)
+x <- toupper(Colonias$NomColonia)
+y <- toupper(delitos.4)
 
 
 
+unique(x)
+unique(y)
 #cache('zapopan.fuerte')
 #cache('delitos.4')
 
