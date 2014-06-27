@@ -95,10 +95,27 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
 ggsave(filename = 'graphs/temperatura.pdf', width = 9, height = 6 )
 
 
-
-
 delitos.4$dia.sem <- substr(format(delitos.4$fecha.1, "%a %b %d %H:%M:%S %Y"), start=1, stop=3)
 delitos.4$dia.sem
+
+dias <- delitos.4 %.% group_by(colonia,dia.sem)  %.% 
+  summarise( long= mean(long), lat=mean(lat),n=n()) %.% arrange( -n)
+
+write.csv(dias, file='data/dias.csv')
+
+
+ggplot(data = zapopan.fuerte, aes(long, lat)) + 
+  geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
+  
+  coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
+                                   colour = "Temp. media", size = "Número de delitos", alpha = "")  + 
+  geom_point(data =dias  , aes(x = long, y = lat, size = n, colour=dia.sem), alpha = .8) 
+
+ggsave(filename = 'graphs/dias.pdf', width = 9, height = 6 )
+
+
+
+
 
 #cache('zapopan.fuerte')
 #cache('delitos.4')

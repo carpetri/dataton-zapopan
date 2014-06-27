@@ -76,27 +76,42 @@ ggplot(data = zapopan.fuerte, aes(long, lat)) +
   geom_point(data =coord.colonias  , aes(x = long, y = lat,size=n ), alpha = .7, color='black') 
 ggsave(filename = 'graphs/heat_y_delitos2.pdf', width = 9, height = 6 )
 
+delitos$colonia
 
 write.csv(coordenas.por.colonia[,c('long','lat','colonia')],'x.csv' ) 
 
-nrow(coord.colonias)
+nrow(coordenas.por.colonia )
 library(foreign)
 coord.manz <- read.dbf(file = 'coord_delitos.dbf')
 
 head(coord.manz)
 nro
-dat <- left_join(coord.colonias, coord.manz, by = 'colonia')
+dat <- left_join(coordenas.por.colonia, coord.manz, by = 'colonia')
 nrow(dat)
 tail(dat)
 
+
+
 dat.pob <- filter(dat , !is.na(CVEGEO) ) 
+nrow(dat.pob)
+
+mod <- lm(n~ POB1, data = dat.pob)
+summary(mod)
+plot(mod)
+
+ggplot(dat.pob,aes(x=POB1, y=n))+ geom_point() +xlab('Población total') + 
+  ylab('Número de delitos por colonia')
+filter(dat.pob, POB1>1000)
+
+nrow(x)
 
 x <- dat.pob %.% group_by(n) %.% summarise( pob=sum(POB1) )
 
-lm( , 
-ggplot(filter(x,pob>0), aes(x=pob, y=n) ) +geom_point() + scale_x_log10() 
-+ scale_y_log10() + geom_smooth()
 
+
+ggplot(filter(x,pob>0), aes(x=pob, y=n) ) +geom_point() 
+
+nrow(x)
 
 # ############# V3
 # 
