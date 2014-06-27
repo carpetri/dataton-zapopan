@@ -96,6 +96,10 @@ ggsave(filename = 'graphs/temperatura.pdf', width = 9, height = 6 )
 
 
 
+
+delitos.4$dia.sem <- substr(format(delitos.4$fecha.1, "%a %b %d %H:%M:%S %Y"), start=1, stop=3)
+delitos.4$dia.sem
+
 #cache('zapopan.fuerte')
 #cache('delitos.4')
 
