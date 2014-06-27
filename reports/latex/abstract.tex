@@ -1,12 +1,11 @@
 \thispagestyle{plain}
 \begin{center}
-\scshape \Large Datatón: Predicción espacial de delitos en Zapopan\footnote{Reporte ejecutivo del proyecto: Predicción espacial de delitos en Zapopan del equipo PETRUS.
-\\ Agradecemos el apoyo y comentarios de todos nuestros colaboradores del programa: \href{http://dssg.uchicago.edu}{\textit{Data Science for Social Good (DSSG)}}.
+\scshape \Large Datatón: Análisis espacial de la distribución  de delitos en Zapopan\footnote{Reporte ejecutivo del proyecto: Predicción espacial de delitos en Zapopan del equipo PETRUS.
+\\ Agradecemos el apoyo y comentarios de todos nuestros colaboradores del programa: \href{http://dssg.uchicago.edu}{\textit{Data Science for Social Good (DSSG)}, \textit{University of Chicago}}.
 \\ Esta versión: \today.}
 
 \bigskip
-\large \scshape Carlos Petricioli Araiza\footnote{ \href{mailto:carpetri@gmail.com}{\Letter \ carpetri@gmail.com} }  \hfill Christopher Lazarus García
-\footnote{ \href{mailto:clazarusg@gmail.com}{\Letter \ clazarusg@gmail.com} } 
+\large \scshape Carlos Petricioli Araiza\footnote{Licenciaturas en Matemáticas Aplicadas y Economía, ITAM. Maestría Ciencia de Datos, ITAM. Fellow en DSSG, \textit{University of Chicago}.  \\ \href{mailto:carpetri@gmail.com}{\Letter \ carpetri@gmail.com.} }  \hfill Christopher Lazarus García\footnote{Licenciatura en Matemáticas Aplicadas e Ingeniería en Telemática, ITAM. Fellow en DSSG, \textit{University of Chicago}.\\ \href{mailto:clazarusg@gmail.com}{\Letter \ clazarusg@gmail.com} } 
 \normalsize
 \end{center}
 
@@ -19,11 +18,49 @@
 \section*{\centering  \begin{normalsize} Resumen \end{normalsize}}
 \begin{quotation}
 \noindent 
-El \textit{tema de investigación} de este proyecto es la detección y predicción del crimen en el municipo de Zapopan. El objetivo de este proyecto es hacer una visualización espacial de los delitos en el municipio de Zapopan, Jalisco con el propósito de identificar las zonas más conflictivas y así poder hacer una predicción geográfica sobre dónde habrá más delitos y con qué caracteristicas.
 
-La \textit{metodología} que se utiliza en este este proyecto es completamente espacial. Se consideraron los delitos 
-...
-Se controla por el tipo de delito y todo el análisis se realiza utilizando información sobre centros recreativos, centros de salud, información sobre las colonias,  así como información sobre parques, templos, tianguis y obras públicas. Además se consideran factores climatológicos y culturales como festividades y eventos importantes en el municipio de Zapopan.  El objetivo indirecto de este proyecto es servir de ejemplo de cómo se puede utilizar este tipo de información para el mejoramiento y desarrollo del país a partir de uso de datos abiertos.
+%Tema de investigación.
+ 
+El objetivo de este proyecto es analizar la distribución geoespacial del crimen en Zapopan y descubrir su relación con otras variables (tipo de delito y todo el análisis se realiza utilizando información sobre centros recreativos, centros de salud, información sobre las colonias, así como información sobre parques, templos, tianguis y obras públicas. Además se consideran factores climatológicos y culturales como festividades y eventos importantes en el municipio de Zapopan) con el fin de poder construir un modelo capaz de generar recomendaciones para la alocación de recursos policiacos.
+ 
+% Breve síntesis metodológica.
+
+Llevamos a cabo un analisis exploratorio utilizando un sistema de información geográfica de manera que pudimos visualizar la distribución espacial de los delitos cometidos en el periodo estudiado etiquetandolos por tipo. En seguida nos dispusimos a cruzar la información con los mapas a nivel manzana obtenidos del INEGI y calculamos la cantidad de delitos cometidos por manzana. Con esta información ajustamos un modelo Radial Basis Function (RBD) para interpolar y extrapolar las observaciones al resto del territorio. Trazando curvas de contorno y estandarizando los niveles pudimos clasificar regiones por la cantidad de delitos cometidos en ellas.
+
+Para probar la capacidad explicativa (y potencialmente predictiva) de la distribución espacial de nuestro modelo colocamos marcas que representan la cantidad de delitos cometidos sobre las regiones clasificadas y observamos que coinciden con una considerable precisión.
+
+Para tener una idea sobe la efectividad de la actual asignación de recursos policiacos colocamos marcas que corresponden a detenciones y observamos su relación con las regiones clasificadas. Pudimos observar que la mayoría de las detenciones tuvieron lugar en las regiones que nuestro modelo clasifica como de alta y muy alta criminalidad.
+
+Por otro lado para complementar nuestro análisis geoespacial estudiamos la relación que guarda la cantidad de delitos cometidos con la población por colonia y descubrimos que para colonias con baja densidad de poblción existe una variabilidad considerable (misma que impide el ajuste de un modelo con un poder explicativo significativo) pero en colonias donde la población es mayor se pudo observar que, en general, se cometen menos delitos.
+
+Además comparamos la cantidad de delitos cometidos contra la cantidad de detenciones por colonia para poder evaluar la eficacia de las estrategias preventivas.*
+
+% Resumen de resultados.
+
+-Clasificación de regiones por nivel de criminalidad
+-Hallazgo: mayor cantidad de detenciones en zonas clasificadas como de alta criminalidad (asertada asignación de recursos)
+-Hallazgo: menor comisión de delitos en colonias altamente pobladas
+
+Con la información a la que tuvimos acceso pudimos identificar* a colonias que requieren un mayor esfuerzo para prevención del delito:
+
+PASEOS DEL SOL
+TABACHINES
+SAN JUAN DE OCOTAN
+CALMA LA
+
+*en nuestro analisis de eficacia encontramos considerables inconsistencias y por no contar con una muestra mayor preferimos utilizar los valores netos.
+
+y por otro lado colonias que tienen bajos grados de criminalidad:
+
+BUGAMBILIAS COUNTRY
+LOMAS DEL BOSQUE
+
+
+El impacto más importante de este proyecto es servir de ejemplo de cómo se puede utilizar  información geográfica  para el mejoramiento y desarrollo del paıs a partir de uso de datos abiertos. Además tiene capacidad  de expansión muy amplias; por ejemplo, en una extensión de este análisis se puede utilzar la información georeferenciada de Twitter para medir el flujo de la gente en Zapopan o en cualquier zitio de interes. Sin embargo, el impacto radica en mejorar la calidad de vida de los mexicanos en línea con la Estrategia Nacional de Datos Abiertos.
+                                                   
+                        
+
+
 
 
 \end{quotation}

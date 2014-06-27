@@ -16,7 +16,8 @@ df <- filter(df,lat>=20.57)
 df$cat <- cut2(df$n,g=5)
 levels(df$cat) <- c('Muy baja','Baja','Media', 'Alta','Muy alta')
 
-
+x <- delitos.4 %.% group_by(colonia) %.% summarise(n=n())
+arrange(x,n)
 
 library(RColorBrewer)
 nclr <- 5# número de colores que usaremos
@@ -202,10 +203,10 @@ data.frame(cbind(unique(delitos.4$colonia),unique(delitos.detenidos$colonia) )
              geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
              scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
              geom_point(data =x , aes(x = long, y = lat,size=n ), alpha = .7, color='black') +
-             facet_wrap(~tipo)
+             facet_grid(tipo~.)
            
            
-           ggsave(filename = 'graphs/heat_facet.pdf', width = 14, height = 6 )
+           ggsave(filename = 'graphs/heat_facet.pdf', width = 9, height = 12 )
            
            
 

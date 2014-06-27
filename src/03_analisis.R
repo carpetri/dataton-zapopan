@@ -20,8 +20,10 @@ head(arrange(dat, -n.cometidos      ))
 
 dat$div  <- dat$n.cometidos / dat$n.detenidos
 
-arrange(dat, -div)
-
+xx <- head(arrange(dat[,c('colonia',"n.cometidos"     ,"n.detenidos",'div')], -div), 20)
+xx
+library(xtable)
+print(xtable(xx,digits=0), include.rownames=F )
 
 dat
 
