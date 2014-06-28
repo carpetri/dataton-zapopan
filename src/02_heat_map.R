@@ -197,10 +197,11 @@ data.frame(cbind(unique(delitos.4$colonia),unique(delitos.detenidos$colonia) )
            # 
            head(df)
            head(coord.colonias)
+           
            ggplot(data = zapopan.fuerte, aes(long, lat)) + 
              coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
                                               colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
-             geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
+             geom_point(data =heat  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
              geom_polygon(colour='darkgray', fill='white', aes(group=group), alpha=.5) +
              scale_color_manual(values=rev(brewer.pal(5,"RdBu") ))  +
              geom_point(data =x , aes(x = long, y = lat,size=n ), alpha = .7, color='black') +
