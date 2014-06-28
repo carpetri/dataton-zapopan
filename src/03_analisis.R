@@ -4,7 +4,7 @@ reload.project()
 data.frame(cbind(unique(delitos.4$colonia),unique(delitos.detenidos$colonia) )
 
 
-coordenas.por.colonia
+write.csv(sort(unique(delitos.4$colonia)), row.names = F, file='col.csv')
 
 coord.2 <- filter(delitos.detenidos,x>0) %.% group_by(colonia) %.% summarise(
   n=n(), long=mean(long), lat=mean(lat)

@@ -435,7 +435,10 @@ shinyUI(
 
       
       selectInput("dia.sem", "Día de la semana",
-                  list( "Mon" ,  "Tue", "Wed", "Fri", "Sat" ,"Sun"))
+                  list( "Mon" ,  "Tue", "Wed", "Fri", "Sat" ,"Sun")),
+      
+      selectInput("cat", "Nivel de inseguridad",
+                  list("Todos", "Muy baja", "Baja", "Media","Alta","Muy alta" ))
       
       
     )#slider
@@ -444,24 +447,17 @@ shinyUI(
     mainPanel(
       
       
-      h3('Predicción'),
-      h2(as.character(verbatimTextOutput("data"))),
-      numericInput("corte", 
-                   "Corte de ventas diarias por plaza operativa", 
-                   min = 20,
-                   max = 1000, 
-                   value = 53400),
-      plotOutput("plot2", width = "100%", height = "120px"),
-      h3('Rangos para variables'),
-      plotOutput("plot", width = "100%", height = "300px")
-      ,
+      h3('Heat map'),
+      
+      plotOutput("plot", width = "100%", height = "420px"),
       br(),
       br(),
       br(),
       
       p("Creado por:",
         a("Carlos Petricioli", href = "http://github.com/carpetri"), 'y', 
-        a("Christopher Lazaris", href = "http://clazarus.com") )
+        a("Christopher Lazarus", href = "http://clazarus.com") )
+      
       # downloadButton('reporte','Reporte')
       
       

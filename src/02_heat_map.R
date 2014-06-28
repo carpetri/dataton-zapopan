@@ -69,6 +69,7 @@ df$cat <- cut2(df$n,g=5)
 levels(df$cat) <- c('Muy baja','Baja','Media', 'Alta','Muy alta')
 heat <- df
 cache('heat')
+
 ggplot(data = zapopan.fuerte, aes(long, lat)) + 
   coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
                                    colour = "Nivel de inseguridad", size = "Número de delitos", alpha = "")  + 
