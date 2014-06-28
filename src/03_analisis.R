@@ -35,9 +35,9 @@ ggplot(dat,aes(x=n.cometidos, y=n.detenidos, colour=!color), alpha=1)+ geom_poin
   geom_abline(intercept=0,slope=1,col='black', alpha=.5) + xlim(0,400)+ylim(0,400)+
   scale_color_manual(values=c('blue','Red')) + xlab('Número de delitos cometidos') +
   ylab('Número de delitos detenidos') +ggtitle('Colonias en Zapopan')+
-  labs(color='Colonias por observar') 
+  labs(color='Colonias por observar') +scale_x_log10() + scale_y_log10()
   
-ggsave('graphs/recomendacion.pdf',width = 9, height = 6 )
+ggsave('graphs/recomendacion2.pdf',width = 9, height = 6 )
 
 x <- dat[ dat$n.cometidos>55&  dat$div >1 ,c('colonia','n.cometidos' ,
                                              'n.detenidos')]
@@ -64,19 +64,6 @@ names(coordenas.por.colonia)
 coordenas.por.colonia$X <- NULL
 x <- rbind(coord.2,coordenas.por.colonia)
 
-
-
-# ggplot(data = zapopan.fuerte, aes(long, lat)) + 
-#   geom_polygon(colour='darkgray', fill='white', aes(group=group)) + 
-#   
-#   coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
-#                                    colour = "Mes del delito", size = "Número de delitos", alpha = "")  + 
-#   geom_point(data =df  , aes(x = long, y = lat,  colour=cat ), alpha = .9, size=3) +
-#   #scale_colour_brewer(palette="RdBu") + 
-#   scale_color_manual(values=rev(brewer.pal(5,"RdBu") )) +
-#   geom_point(data =x , aes(x = long, y = lat, size = n), alpha = .8) 
-# + facet_wrap(~tipo)
-# 
 
 ggplot(data = zapopan.fuerte, aes(long, lat)) + 
   coord_fixed(ratio = 7/10)+  labs(title = "Delitos en Zapopan", x = "Longitud", y = "Latitud", 
